@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "testing 1 2 3 Untitled.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "testing 1 2 3 Untitled"
+              "title": "Welcome"
             }
           }
         ],
@@ -74,10 +74,14 @@
             "id": "13fdbe5e6b817d56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -229,10 +233,10 @@
   "lastOpenFiles": [
     "TESTING.md",
     "testing 1 2 3 Untitled.md",
+    "README.md",
     "indexnotworking.html",
     "index (2).html",
     "empty (2).html",
-    "README.md",
     "TEST.md",
     "Welcome.md"
   ]
