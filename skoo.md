@@ -24,11 +24,13 @@
 - Solution a: Create a different kind of home insurance that just covers mold for any reason. Its one of the biggest and most common problems and its often not covered unless due to some natural disaster. Supplemental home insurance for mold.
 - solution b: Mold preventative maintenance company. Mold is linked to ongoing issues that are missed, leaks, poor ventilation, all home maintenance issues that can be easily missed because one does not just treat their home like its a child that needs to get regular check ups. Create a company that does all the preventative maintence and checks that homeowners forget to check.
 
-1. Outsourcing jobs outside the US limiting jobs in the US
+6. Outsourcing jobs outside the US limiting jobs in the US
 -  solution a: incentivize domestic employment by offering tax credits or subsidies to companies that create or retain jobs in the U.S
-- solution b: offer grants or incentives for companies that source materials and services from US based businesses, stop
-1. Tarrifs
-2.  Local government not well taught in schools
+- solution b: offer grants or incentives for companies that source materials and services from US based businesses. 
+- solution c: create Job training programs that match local skills to business needs
+
+6. Tarrifs
+7.  Local government not well taught in schools
 
 
 EMPATHIZE - IN THEIR SHOES
