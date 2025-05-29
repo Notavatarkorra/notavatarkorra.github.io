@@ -1,4 +1,4 @@
-8 problems i observed this week:
+8 problems i observed this week and tell you way too much about me:
 
 1. ADHD
 - solution a: Hormonal testing to be made readily available to help diagnose
@@ -18,8 +18,9 @@
 - Research and testing to create a safe product for women to take to achieve similar results like men do
 - Create Viagra for women
 
-1. Mold in homes not not usually covered by insurance 
-- Create a different kind of home insurance that just covers mold for any reason. Its one of the biggest and most common problems and its often not covered unless due to some natural disaster. 
+5. Mold in homes not not usually covered by insurance 
+- Solution a: Create a different kind of home insurance that just covers mold for any reason. Its one of the biggest and most common problems and its often not covered unless due to some natural disaster. Supplemental home insurance for mold.
+- solution b: Mold preventative maintenance company. Mold is linked to ongoing issues that are missed, leaks, poor ventilation, all home maintenance issues that can be easily missed because one does not just treat their home like its a child that needs to get regular check ups. Create a company that does all the preventative maintence and checks that homeowners forget to check.
 1. Outsourcing jobs outside the US limiting jobs in the US
 2. Tarrifs
 3.  Local government not well taught in schools
