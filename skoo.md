@@ -25,8 +25,8 @@
 - solution b: Mold preventative maintenance company. Mold is linked to ongoing issues that are missed, leaks, poor ventilation, all home maintenance issues that can be easily missed because one does not just treat their home like its a child that needs to get regular check ups. Create a company that does all the preventative maintence and checks that homeowners forget to check.
 
 1. Outsourcing jobs outside the US limiting jobs in the US
--  Offer tax credits or subsidies to companies that create or retain jobs in the U.S
-- 
+-  solution a: incentivize domestic employment by offering tax credits or subsidies to companies that create or retain jobs in the U.S
+- solution b: offer grants or incentives for companies that source materials and services from US based businesses, stop
 1. Tarrifs
 2.  Local government not well taught in schools
 
