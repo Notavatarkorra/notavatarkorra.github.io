@@ -10,13 +10,19 @@
 - solution b:  Create more marketing and more public information about how bad processed food is.
 - solution c: make boycotting popular processed food normal
 
-1. Bladder inflamation and bladder spasms after UTI 
+3. Bladder inflammation and bladder spasms after UTI 
 - solution a: Research and create alkaline diets
-1. Viagra for women
-2. Mold in homes not not usually covered by insurance 
-3. Outsourcing jobs outside the US limiting jobs in the US
-4. Tarrifs
-5.  Local government not well taught in schools
+- solution b: Create a reishi mushroom tea thats more affordable and marketed soley toward alkaline diets and bladder inflammation.
+
+4. Viagra for women
+- Research and testing to create a safe product for women to take to achieve similar results like men do
+- Create Viagra for women
+
+1. Mold in homes not not usually covered by insurance 
+- Create a different kind of home insurance that just covers mold for any reason. Its one of the biggest and most common problems and its often not covered unless due to some natural disaster. 
+1. Outsourcing jobs outside the US limiting jobs in the US
+2. Tarrifs
+3.  Local government not well taught in schools
 
 
 EMPATHIZE - IN THEIR SHOES
