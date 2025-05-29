@@ -9,10 +9,12 @@
 - solution a: More knowledge and research taught in schools
 - solution b:  Create more marketing and more public information about how bad processed food is.
 - solution c: make boycotting popular processed food normal
+- solution d: Ai App that transforms a recipe with processed foods to eliminate processed foods from the recipe and create better substitutions.
 
 3. Bladder inflammation and bladder spasms after UTI 
-- solution a: Research and create alkaline diets
+- solution a: Research and create alkaline diets and recipes to market
 - solution b: Create a reishi mushroom tea thats more affordable and marketed soley toward alkaline diets and bladder inflammation.
+- solution c: Alkaline foods diet app
 
 4. Viagra for women
 - Research and testing to create a safe product for women to take to achieve similar results like men do
@@ -21,9 +23,12 @@
 5. Mold in homes not not usually covered by insurance 
 - Solution a: Create a different kind of home insurance that just covers mold for any reason. Its one of the biggest and most common problems and its often not covered unless due to some natural disaster. Supplemental home insurance for mold.
 - solution b: Mold preventative maintenance company. Mold is linked to ongoing issues that are missed, leaks, poor ventilation, all home maintenance issues that can be easily missed because one does not just treat their home like its a child that needs to get regular check ups. Create a company that does all the preventative maintence and checks that homeowners forget to check.
+
 1. Outsourcing jobs outside the US limiting jobs in the US
-2. Tarrifs
-3.  Local government not well taught in schools
+-  Offer tax credits or subsidies to companies that create or retain jobs in the U.S
+- 
+1. Tarrifs
+2.  Local government not well taught in schools
 
 
 EMPATHIZE - IN THEIR SHOES
