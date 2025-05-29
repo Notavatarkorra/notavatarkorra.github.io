@@ -61,7 +61,7 @@ Shrek is a skilled American worker who wants to climb the corporate ladder and n
 
 Problem statement:
 
-Mulan is persuing a bachelors degree with limited finances and is lo
+Mulan is pursuing a bachelors degree with limited finances and is looking for a way to get a high quality education without spending the next 50 years indebted and paying for a curriculum that is not highly guaranteed to make her smart or wealthy.
 
 
 1.  Local government not well taught in schools
@@ -71,6 +71,7 @@ Mulan is persuing a bachelors degree with limited finances and is lo
 
 Problem statement:
 
+Mrs. Hope is a government teacher that wants her students to care about local government but the current curriculum doesn't teach anything about local government and does not have interactive tools or local content that make the subject relevent. 
 
 EMPATHIZE - IN THEIR SHOES
 DEFINE -EXPRESSED CORE PROBLEM IN FORM OF POINT OF VIEWS
