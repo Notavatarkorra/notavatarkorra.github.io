@@ -32,7 +32,10 @@
 1. College is too expensive
 - solution a: Create an elite underground college that is the opposite of colleges like duke and yale; for example, it is super affordable but under stricter participation rules, its harder to get into, but its accredited and boasts courses that mimic ivy league schools. 
 - solution b: Create incentivized shadow mentor opportunities within workspaces. A community, perhaps as sort of a secret club, where people within the workforce get connected with people who cannot afford school but wish to get some hands on training, and have opportunities to shadow and learn exactly what kinds of work is done. 
+
 1.  Local government not well taught in schools
+- solution a: Build a tool or resource that schools and teachers can use to teach with, one where they can role play scenarios, or one that mimics what is happening in local government and uses ai to help teach it
+- solution bCreate a professional development training and offer to teachers and include tools and resources in this.
 
 
 EMPATHIZE - IN THEIR SHOES
