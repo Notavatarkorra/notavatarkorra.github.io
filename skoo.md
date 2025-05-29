@@ -7,6 +7,8 @@
 
 Problem statement:
 
+Korra is a college student who struggles with focusing and needs a better way to manage her ADHD symptoms, but there doesn't se
+
 
 2. Whole foods over processed foods
 - Solution a: More knowledge and research taught in schools
