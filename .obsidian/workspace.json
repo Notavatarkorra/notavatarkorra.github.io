@@ -6,6 +6,7 @@
       {
         "id": "dfa2ac8cc059dc4e",
         "type": "tabs",
+        "dimension": 75.90132827324479,
         "children": [
           {
             "id": "f2aace7b6dfc14c5",
@@ -34,13 +35,28 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "6f3e13a1c94392fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "skoo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "skoo"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "4699ef50ea5864f3",
         "type": "tabs",
+        "dimension": 24.09867172675522,
         "children": [
           {
             "id": "13fdbe5e6b817d56",
@@ -109,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f78936d32ff11185",
@@ -197,9 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53f632497228727a",
+  "active": "22cd2bf035e84ace",
   "lastOpenFiles": [
     "README.md",
+    "skoo.md",
     "conflict-files-obsidian-git.md",
     "Welcome.md",
     "meeting-notes.md",
