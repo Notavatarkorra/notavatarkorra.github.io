@@ -188,3 +188,13 @@ A holistic ADHD treatment pathway that includes:
 - 50%: Subscription pills
     
 - 10%: Professional services/add-ons
+
+#### 🔬 **More Impactful but Long-Term Heavy Lift:**
+
+**ADHD Testing + Custom Treatment**
+
+- Huge potential, but **highly medicalized** — regulatory steps are long and expensive.
+    
+- Needs **research, clinical advisors, patient trials, data handling**, and likely **FDA pathways** for drug/supplement combinations.
+    
+- You could **start lean** by offering only testing + analysis (without pills yet), but trust and outcomes will be a barrier.

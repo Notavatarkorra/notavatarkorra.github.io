@@ -200,3 +200,18 @@ Mold in homes is one of the most common and expensive health hazards. However, m
 - 10%: On-demand inspections/repairs
     
 - 5%: Sensor tech add-ons
+
+
+### ⚖️ **Comparison of Your Two Business Ideas**
+
+| Criteria                         | **1. ADHD Hormonal Testing + Hybrid Treatment**                                           | **2. Mold Insurance + Maintenance Service**                                |
+| -------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Market Demand**                | High (ADHD diagnosis is rising fast; parents & adults seeking alternatives to stimulants) | High (Mold is a nightmare for homeowners; most insurance doesn’t cover it) |
+| **Differentiation**              | Unique blend of pharma + natural + diagnostics                                            | First-of-its-kind mold-only protection plan                                |
+| **Barriers to Entry**            | High: FDA oversight, medical testing, HIPAA, pharma production                            | Medium: Licensing, insurance regulation, ops-heavy                         |
+| **Startup Cost**                 | $$$$ (labs, R&D, clinical validation, regulatory)                                         | $$–$$$ (tech + staffing, but insurance partners can mitigate cost)         |
+| **Regulatory Complexity**        | Very high (medical device/lab compliance, FDA/FTC rules)                                  | Medium-high (state insurance regs, property law)                           |
+| **Time to MVP/Launch**           | 12–24 months minimum                                                                      | 6–12 months for basic maintenance biz; longer if including insurance       |
+| **Revenue Speed**                | Slower at first (requires trust, validation, pilot data)                                  | Quicker (homeowners are more used to paying for protection plans)          |
+| **Ease of Customer Acquisition** | Moderate: digital health buyers are niche and skeptical                                   | Easier: property managers, realtors, or Facebook ads to homeowners         |
+| **Scalability**                  | High but slow: long R&D runway, then explosive growth if proven                           | Moderate-high: regional rollout, franchising, or national licensing        |
