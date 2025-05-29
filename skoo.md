@@ -72,3 +72,9 @@ PROTOTYPE - BROUGHT IT OUT OF HEAD AND INTO REAL WORLD
 - Learn how to frame a problem statement effectively. 
 - Practice and apply design thinking to formulate clear and concise real-world problem statements.
 - Evaluate the effectiveness of different problem statements.
+
+
+problem statement example?
+"sam is a busy manager who needs a way to integrate healthy eating haits because he dosen't want to feel like hes on a diet"
+
+user name - user characteristics, user need, insight
