@@ -28,7 +28,7 @@ Jerry is a busy father who wants to provide nutrition and health to his family t
 
 Problem statement:
 
-Melanie is a health concious women
+Melanie is a health conscious women recovering from a UTI that has been left with constant urgency due to an inflamed bladder for a year now, her doctor gives her expensive medication that never fix it, she is now starting to see improvement with a more alkaline diet and mushroom tea but its all expensive and hard to track and stick to.
 
 3. Viagra for women
 - Research and testing to create a safe product for women to take to achieve similar results like men do
@@ -36,6 +36,7 @@ Melanie is a health concious women
 
 Problem statement:
 
+Feyre is a woman in her late 20s experiencing dryness, and is frustrated by the lack of options that women have 
 
 3. Mold in homes not not usually covered by insurance 
 - Solution a: Create a different kind of home insurance that just covers mold for any reason. Its one of the biggest and most common problems and its often not covered unless due to some natural disaster. Supplemental home insurance for mold.
