@@ -36,7 +36,7 @@ Melanie is a health conscious women recovering from a UTI that has been left wit
 
 Problem statement:
 
-Feyre is a woman in her late 20s experiencing dryness, and is frustrated by the lack of options that women have 
+Feyre is a woman in her late 20s experiencing dryness and pleasure, and is frustrated by the lack of options that women have as opposed to men. 
 
 3. Mold in homes not not usually covered by insurance 
 - Solution a: Create a different kind of home insurance that just covers mold for any reason. Its one of the biggest and most common problems and its often not covered unless due to some natural disaster. Supplemental home insurance for mold.
@@ -44,6 +44,7 @@ Feyre is a woman in her late 20s experiencing dryness, and is frustrated by the 
 
 Problem statement:
 
+Frodo is a fresh homeowner of only 2 years who just found mold in his house caused by a leak somewhere, and is devastated to learn that insurance will likely not cover it and now he has to pay 20,000 out of pocket. 
 
 6. Outsourcing jobs outside the US limiting jobs in the US
 -  Solution a: incentivize domestic employment by offering tax credits or subsidies to companies that create or retain jobs in the U.S
@@ -52,12 +53,15 @@ Problem statement:
 
 Problem statement:
 
+Shrek is a skilled American worker who wants to climb the corporate ladder and not constantly worry about job security because companies continue to outsource jobs for cost cutting reasons.
 
-1. College is too expensive
+7. College is too expensive
 - Solution a: Create an elite underground college that is the opposite of colleges like duke and yale; for example, it is super affordable but under stricter participation rules, its harder to get into, but its accredited and boasts courses that mimic ivy league schools. 
 - Solution b: Create incentivized shadow mentor opportunities within workspaces. A community, perhaps as sort of a secret club, where people within the workforce get connected with people who cannot afford school but wish to get some hands on training, and have opportunities to shadow and learn exactly what kinds of work is done. 
 
 Problem statement:
+
+Mulan is persuing a bachelors degree with limited finances and is lo
 
 
 1.  Local government not well taught in schools
