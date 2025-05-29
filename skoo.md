@@ -7,7 +7,7 @@
 
 Problem statement:
 
-Korra is a college student who struggles with focusing and needs a better way to manage her ADHD symptoms, but there doesn't se
+Korra is a college student who struggles with focusing and needs a better way to manage her ADHD symptoms, but there doesn't seem to be a lot options and research about how hormones affect ADHD.
 
 
 2. Whole foods over processed foods
@@ -18,6 +18,8 @@ Korra is a college student who struggles with focusing and needs a better way to
 
 Problem statement:
 
+Jerry is a busy father who wants to provide nutrition and health to his family through better dieting but is overwhelmed by conflicting messages given by stores selling processed food and the media shedding light on the harmful aspects of processed food. 
+
 
 3. Bladder inflammation and bladder spasms after UTI 
 - Solution a: Research and create alkaline diets and recipes to market
@@ -26,6 +28,7 @@ Problem statement:
 
 Problem statement:
 
+Melanie is a health concious women
 
 3. Viagra for women
 - Research and testing to create a safe product for women to take to achieve similar results like men do
