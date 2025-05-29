@@ -30,7 +30,8 @@
 - solution c: create Job training programs that match local skills to business needs
 
 1. College is too expensive
-- Centralized source for courses that are taught by college 
+- solution a: Create an elite underground college that is the opposite of colleges like duke and yale; for example, it is super affordable but under stricter participation rules, its harder to get into, but its accredited and boasts courses that mimic ivy league schools. 
+- solution b: Create online communities where people 
 1.  Local government not well taught in schools
 
 
