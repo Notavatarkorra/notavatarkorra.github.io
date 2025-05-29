@@ -4,7 +4,8 @@
 2. Hormonal regulation
 3. Bladder inflamation after UTI alkaline diet
 4. Viagra for women
-5. 
+5. Mold in homes not not usually covered by insurance 
+6. Outsourcing jobs outside the US 
 
 
 EMPATHIZE - IN THEIR SHOES
