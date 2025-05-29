@@ -29,8 +29,9 @@
 - solution b: offer grants or incentives for companies that source materials and services from US based businesses. 
 - solution c: create Job training programs that match local skills to business needs
 
-6. Tarrifs
-7.  Local government not well taught in schools
+1. College is too expensive
+- Centralized source for courses that are taught by college 
+1.  Local government not well taught in schools
 
 
 EMPATHIZE - IN THEIR SHOES
