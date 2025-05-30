@@ -26,3 +26,5 @@ b to b finding companies that will hit your target audience focus
 b to c trying to find the community and be apart of it, news, shows anything that gets them in front
 
 continuously learning about how to make it better for the client
+
+start small, she thought she was going to do a salon, she started with nail polish and the community helped her grow
