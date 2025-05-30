@@ -21,4 +21,8 @@ if you make 51 percent of the decisions right your doing great
 
 microinfluencers esp in areas where i'm weak
 
-b to b finding 
+b to b finding companies that will hit your target audience focus
+
+b to c trying to find the community and be apart of it, news, shows anything that gets them in front
+
+continuously learning about how to make it better for the client
