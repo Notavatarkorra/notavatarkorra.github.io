@@ -19,4 +19,4 @@ its okay to be ahead of your time, the ennvironment might get there on its own e
 
 if you make 51 percent of the decisions right your doing great
 
-microinfluencers
+microinfluencers esp in areas where i'm weak
