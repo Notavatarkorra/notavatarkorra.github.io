@@ -15,3 +15,8 @@ vendor events, showing you are real
 retail ready, have the pitch communicate the brand message, stores won't invite you in if you aren't prepared, having insurance, having a mentor, finding out what they did, what mistakes they made and getting introduced
 
 challenge was getting away from whats popular
+its okay to be ahead of your time, the ennvironment might get there on its own eventually
+
+if you make 51 percent of the decisions right your doing great
+
+microinfluencers
