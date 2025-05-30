@@ -11,3 +11,7 @@ business model canvas and how it can change as you grow and remodel your busines
 allowing customers to be apart of the community as a way to market, allowing clients to be apart of the process by creating the brand abassador is a good strategy
 
 vendor events, showing you are real
+
+retail ready, have the pitch communicate the brand message, stores won't invite you in if you aren't prepared, having insurance, having a mentor, finding out what they did, what mistakes they made and getting introduced
+
+challenge was getting away from whats popular
