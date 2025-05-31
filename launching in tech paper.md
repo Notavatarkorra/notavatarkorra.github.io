@@ -54,4 +54,9 @@ if i asked my customers what they wanted they would ask for a faster horse, it i
 
 chat gpt does a good job of this lol
 
-business model building very quickly when you build a product you might want it to be perfect and you might get in your own way perfecting it where you could get 6 moths of feedback from customers instead and responding to t
+business model building very quickly when you build a product you might want it to be perfect and you might get in your own way perfecting it where you could get 6 moths of feedback from customers instead and responding to that insight 
+
+overenginering the solution had gotten them in trouble get the insights, put a version out letting the customer tell you what they are using it and what they are willing to pay for
+
+when they started one kin is when he decided he was leaving wallstreet and didn't leave till4 yers later 
+started saving money and capital during that time
