@@ -12,5 +12,9 @@ my teacher is awesome and always says yes to students
 maybe i need to reach out to teachers and talk to  business teachers now..
 
 landlord and rehab training program meet at slu
-urbanland institue virtual and in person
+urbanland institute virtual and in person
 development community called rise
+
+businesses refer to other businesses
+cant always rely on one source to bring in business
+work more strategically to have more leisure
