@@ -20,4 +20,4 @@ learned by trial and error the first 5 years
 business to busiess to consumer
 relationship building 
 business to consumer is how they start it 
-busienss to business is how they expand it
+busienss to business is how they expand itc
