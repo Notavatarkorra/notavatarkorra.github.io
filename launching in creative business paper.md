@@ -15,4 +15,12 @@ figure out what kind of credit your business can get so i don't take it out pers
 friends starting busines together and parting ways
 started to feel more like a dsigner because his partner took on a lot of it and he didnt feel like an equal partner
 proud of him for articulating it instead of sitting on it for weeks
-sad cause it was new and jarring and emotional
+sad cause it was new and jarring and emotional 
+gave himself a week or two to do nothing
+good example of staying friends besides the business part of it not working unlike the other lectures
+this lecture seems like a good example of acceptance on business partnerships not working out and to be okay with it because it might be the best thing for you and try to look at it like that
+we seek partnerships because its things we dont want to do ourselves and we want a surrogate
+better being independant cause you learn more about yourself
+he relaized when he broke up he had never had a breath of fresh air
+
+trippled income in a year of being on their own
