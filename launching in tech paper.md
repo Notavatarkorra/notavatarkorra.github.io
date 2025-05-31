@@ -70,3 +70,6 @@ mastercard is positioning them
 visa and jp morgan starting to doit
 this is a valuable source of capital because you still own your company, angel investors
 
+their check is predicated on them discontinued on fund raising we will write you a check but you cant raise any more money because 
+alot of predatory vcs to try and write rediculous terms
+
