@@ -60,3 +60,13 @@ overenginering the solution had gotten them in trouble get the insights, put a v
 
 when they started one kin is when he decided he was leaving wallstreet and didn't leave till4 yers later 
 started saving money and capital during that time
+
+they are backed by mastercard
+start path you get so big you can no longer innovate no longer beaocratic 
+aqquisitive strategty to help renergize them but thats too expsensive when the company is a unicorn what if they can identify unicorn companies early on and give them capital and then aqquire them before they get too big 
+hypergrowth company strong aqquisition targets
+
+mastercard is positioning them 
+visa and jp morgan starting to doit
+this is a valuable source of capital because you still own your company, angel investors
+
