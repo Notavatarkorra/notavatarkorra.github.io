@@ -9,3 +9,10 @@ might need to aquire positivty
 may use the degree but it will be in support of the main passion
 5k was a bandaid to fix the debt
 nobody teaches you to be a creative director cause they just expect you to be that 
+best buy would give you a discount on tech for camersa
+be smarter with finances and avoiding credit card debt
+figure out what kind of credit your business can get so i don't take it out personally
+friends starting busines together and parting ways
+started to feel more like a dsigner because his partner took on a lot of it and he didnt feel like an equal partner
+proud of him for articulating it instead of sitting on it for weeks
+sad cause it was new and jarring and emotional
