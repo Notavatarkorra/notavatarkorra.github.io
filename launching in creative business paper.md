@@ -35,3 +35,12 @@ run business on less, everything has to be done on 30 percent
 haven't been comfortable , get used to being uncomfortable
 
 when we face adversity we find the stuff that we are made of
+
+emotional connection to money
+the confidence to talk to clients
+outsourcing because trying to keep the profit to yourslefs keeps the profit away from you
+he taught someone to help them got him to do 60 percent then more and kept going and it gave him the capability run everything
+give a little bit of work away to get so much more of a return
+
+built self up brick by brick
+the lens 
