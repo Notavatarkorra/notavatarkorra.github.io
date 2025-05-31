@@ -22,3 +22,7 @@ identifying where the gaps are and digging in and being willing to fill it
 
 dev shop is a development shop its way alot of people get tech support 
 it is outsourcing for technical talent and you can outsource any part of it but esp early on they may have something in house but the bulk 
+
+outsourcing in the beginning and then you have the resources to bring everything in house local talent
+
+what is there business
