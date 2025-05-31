@@ -18,3 +18,5 @@ development community called rise
 businesses refer to other businesses
 cant always rely on one source to bring in business
 work more strategically to have more leisure
+
+choose the type of work you like to do, figure out what you are naturally good at, its what you can consistently do that you can tolerate or like enough to repeat
