@@ -1,3 +1,6 @@
+
+**Share how the information you learned is making you think differently about your business venture.**
+
 his own money got him qualified but really what helped him was the small business association fund, having a franchise to back them  allowed them to drive the convos with the bank 
 
 grants, looking for a grant writer, write the grants, 

@@ -1,3 +1,6 @@
+
+**Share how the information you learned is making you think differently about your business venture.**
+
 Talk more positively about st louis
 
 growing business area

@@ -1,3 +1,6 @@
+
+**Share how the information you learned is making you think differently about your business venture.**
+
 external forces told us creative or artist careers would lead to poverty
 SAID i'm gonna go out on my own way without any confirmation  
 but sought the acceptance and respect of the person that raised him and it gave him more confidence to go on
@@ -44,3 +47,12 @@ give a little bit of work away to get so much more of a return
 
 built self up brick by brick
 the lens 
+if they say yes too quickly the ceiling is not high enough
+you want them to feel a little bit of a struggle
+
+his ceiling was 20k a day waaat
+keep everything to yourself you never really grow
+being an entrepreneuer its synonomous with being a great teacher, not leader, teacher
+graduate level is when the people you teach become better than you
+hits home as a sibling
+same product started at a couple thouseand and got to start gradually charging more

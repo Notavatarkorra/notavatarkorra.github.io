@@ -1,3 +1,6 @@
+
+**Share how the information you learned is making you think differently about your business venture.**
+
 she did a year of research before she started a brokerage
 using their skills and their gifts and make an impact and show up authentication
 
