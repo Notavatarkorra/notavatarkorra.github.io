@@ -19,3 +19,6 @@ theres a point where you transition to fully ceo and it can be hard to make that
 
 thinking several steps ahead
 identifying where the gaps are and digging in and being willing to fill it
+
+dev shop is a development shop its way alot of people get tech support 
+it is outsourcing for technical talent and you can outsource any part of it but esp early on they may have something in house but the bulk 
