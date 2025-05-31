@@ -21,3 +21,10 @@ business to busiess to consumer
 relationship building 
 business to consumer is how they start it 
 busienss to business is how they expand itc
+
+community partner program touching parts of the community that they arent toucing yet.
+
+touch on categories that they dont touch yet, gift card for them or office and free things, promos to followers this what we give you in return marketing is an investment
+
+how i would approach this
+negative feedback this is an opportunity to see where they dropped the ball
