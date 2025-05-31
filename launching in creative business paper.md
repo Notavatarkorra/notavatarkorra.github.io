@@ -24,3 +24,14 @@ better being independant cause you learn more about yourself
 he relaized when he broke up he had never had a breath of fresh air
 
 trippled income in a year of being on their own
+in three months he surpassed the growth from the previous years
+he did the right thing
+he made 90k and bought camera gear
+still in foundation mode 
+after a few years he started to profit he laid the foundation for a few years
+run business on less, everything has to be done on 30 percent
+150k a month
+
+haven't been comfortable , get used to being uncomfortable
+
+when we face adversity we find the stuff that we are made of
