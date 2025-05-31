@@ -38,3 +38,20 @@ amazon starts this campaign where they throw alot of free things to you and gett
 because amazon can compete on price indefinitely that merchant is going to go out of business because they can't mass produce to compete
 
 provide merchants a better solution to reaching their customers and offering a credit solution for short term loans to help them scale and grow to the next level
+
+marvine francis onkin
+
+has the business model changed
+
+proximity to the person you are serving is important
+you understand their pain points acutely and intimately you can ideate around solutions before they communicate those needs to you
+
+big advantage to beind the little david, while competitors golioths have the oppertiunity tog et it right small businesses is geting real up close and personal to the small business to see how they are affected and let that inform their messaging and prodcuts so its an advantage 
+
+marketing is not you get it right forever its constant expiramentation and constnat listening and constant pivoting and close proximity will help you excel
+
+if i asked my customers what they wanted they would ask for a faster horse, it is your job to read between the lines and use intitution that you are not saying this but what you need is a car 
+
+chat gpt does a good job of this lol
+
+business model building very quickly when you build a product you might want it to be perfect and you might get in your own way perfecting it where you could get 6 moths of feedback from customers instead and responding to t
