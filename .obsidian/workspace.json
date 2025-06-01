@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflection paper 1.md",
+                "file": "Launching in beauty reflection paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflection paper 1"
+              "title": "Launching in beauty reflection paper"
             }
           },
           {
@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reflection paper number 2.md",
+                "file": "Launching in real estate reflection paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reflection paper number 2"
+              "title": "Launching in real estate reflection paper"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflection 3.md",
+                "file": "Launching in food reflection paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflection 3"
+              "title": "Launching in food reflection paper"
             }
           },
           {
@@ -149,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       },
       {
         "id": "4699ef50ea5864f3",
@@ -322,14 +322,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97f0fd9584dea0c9",
+  "active": "9e8b56c31caef626",
   "lastOpenFiles": [
-    "Reflection 3.md",
     "launching in tech paper.md",
+    "Launching in food reflection paper.md",
+    "Launching in real estate reflection paper.md",
+    "Launching in beauty reflection paper.md",
     "launching in creative business paper.md",
-    "Reflection paper 1.md",
     "ADHD company.md",
-    "reflection paper number 2.md",
     "Mold company.md",
     "skoo.md",
     "README.md",
