@@ -8,3 +8,5 @@ concepts and office ms
 module projects larger capstone projects for ms office
 html project
 python programming assignments beginner stuff
+
+hes a devloper and manager or infosystems
