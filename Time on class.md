@@ -52,7 +52,15 @@ So realistically its taking about 1.5 hours
 
 And that's not much longer. 90 Minutes divided by 66 questions is a minute and 30 seconds per question.
 
-I also struggle with ADHD and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. So i am already taking into account that i might be slower than the average person. Honestly, the exams and trainings personally take me closer to 2 hours sometimes because of this. 
+So the new realistic time: If you add 3 minutes onto the 12 exams/trainings you are at:
+23.5 hours
+Lets just round up the last half hour for grade checking, the extra 6 questions on the tests adding up to another 6 minutes per assignment, some are 55 so we are just grouping those generously here by rounding up to 24 hours.
+
+24 HOURS not including any time for readings even.
+
+Now to humanize the problem, and show you impossible 24 hours of homework for a class is.
+
+I, also struggle with ADHD, its literally the bane of my existence, one day i'll find a cure and start a company to try and help others who struggle with it. So  and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. So i am already taking into account that i might be slower than the average person. Honestly, the exams and trainings personally take me closer to 2 hours sometimes because of this. 
 
 Unless someone already knows what they are doing completely and is speeding through it all or somehow modding the assignments and cheating. This isn't even taking into account any time for readings.
 
