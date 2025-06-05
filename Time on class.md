@@ -33,3 +33,6 @@ The exams are the same so already the exams and trainings take 12 hours.
 Each assignment takes about 20 minutes. Really they take about 30 minutes if you are checking your graded work and resubmitting for points 
 so generously we can say 25 min per assignment. 
 
+12 assignments 
+capstone assignments take longer so we will say 30 minutes for those. 
+25x 12 is 300
