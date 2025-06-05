@@ -57,5 +57,10 @@ But Professor. This means that if i come home from my 9-5, i'm spending 5 hours 
 
 I have one other accelerated class that actually does take 10 hours. 
 
-So between two classes, that are not hard hard classes like calculous or something, i'm spending 34 hours on homework. That means between these two classes im doing homework 5 hours a day 7 days a week. Thats not even 
+So between two classes, that are not hard hard classes like calculous or something, i'm spending 34 hours on homework. That means between these two classes im doing homework 5 hours a day 7 days a week. That is insane, professor.  
+
+5 hours of homework 7 days a week is so unrealistic. I work 40 hours a week at my job. God forbid i have sports, chores, exercise health or anything else i want to do, i physically cannot due to your class. 
+
+I'm going to talk to a counselor, or whoever i can to explain that this cannot physically be expected of someone. My health should not be deteriorating over an information systems class. Maybe you think you are teaching a class to students who have litterally nothing else to do over the summer, and thats great for them, but you are also teaching to realistic young professional adults with jobs, health needs, families etc. 
+
 
