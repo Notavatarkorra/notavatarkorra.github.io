@@ -40,7 +40,11 @@ Thats 5.5 hours
 
 So already at the MINIMUM this is 17.5 hours that you cannot refute. 
 
-Unless someone already knows what they are doing completely and is speeding through it all or somehow modding the assignments and cheating. This isn't even taking into account any time for readings.
+So regrouping so we are on track first we have the:
+-Minimum 12 hours for exams and trainings
+-add on all the assignments due, we are at the new minimum of 17.5
+
+NOW for the  REALISTIC hours.
 
 So it takes a minimum of 17.5 hours that's also if you are ONLY spending a minute per question on the exams and trainings, that's not including the half hour it takes to repeat things, make mistakes, try again, actually work through the trainings, not to mention trouble focusing or normal human learning and comprehension, so for someone like me who is learning all of this for the first time and not whizzing through it cause i already know it, its taking me the extra half hour on every training and exam and more like 30 minutes per assignment because I'm reading and trying to intake and google how to do something if i don't remember it or its not clear. 
 
@@ -48,9 +52,11 @@ And that's not much longer. 90 Minutes divided by 66 questions is a minute and 3
 
 2 hours would be 2 minutes per question if its 66 questions.
 
-So, if we add taking an extra 30 seconds per question into account, then add on 5 minutes to every regular assignment for checking and grading and resubmitting, tha That's 24.5 hours. 
 
+So, if we add taking an extra 30 seconds per question into account, then add on 5 minutes to every regular assignment for checking and grading and resubmitting, thats all another 7 hours.
 I also struggle with ADHD and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. So i am already taking into account that i might be slower than the average person. Honestly, the exams and trainings personally take me closer to 2 hours sometimes because of this. 
+
+Unless someone already knows what they are doing completely and is speeding through it all or somehow modding the assignments and cheating. This isn't even taking into account any time for readings.
 
 I personally am at over 30 hours because i take longer but i have just shown you that The amount of homework you have that you are stating is NOT 10 hours. Its not even physically capable of being under 12. Adding in the assignments its a minimum of 17.5 and if you consider the normal learning time it takes to read and comprehend and make mistakes and redo items, it REASONABLY takes at least 24.5 hours. 
 
