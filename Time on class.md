@@ -25,9 +25,9 @@
 60
 
 With all due respect, your answer of 10 hours is physically impossible.
-According to my math there are 12 exams and trainings. I grouped the first windows exams and trainings into just one hour because those are shorter and those assignments were shorter so I'm counting those assignments and trainings as just two hours all together because getting started and navigating the course is new and tricky. SO 1 Hours for the windows assignments and 1 hour listening to the syllabus and navigating the course
+According to my math there are 12 exams and trainings. I grouped the first windows exams and trainings into just one hour because those are shorter and those assignments were shorter so I'm counting those assignments and trainings as just two hours all together because getting started and navigating the course is new and tricky. SO 1 Hours for the windows assignments and exams and 1 hour listening to the syllabus and navigating the course. 
 
-After that there are 12 exams and trainings. The trainings take a MIMIMUM of an hour because there's about 55-66 questions. Generously that's 30 seconds for her to explain it and 30 seconds for you to doit. They honestly take more like 1 hour and 30 minutes if you account for making mistakes and redoing ones you messed up, or repeating what she said. 
+After that there are 12 exams and trainings. The trainings take a MIMIMUM of an hour because there's about 55-66 questions. GENEROUSLY that's 30 seconds for her to explain it and 30 seconds for you to doit. They honestly take more like 1 hour and 30 minutes if you account for the fact that that's an extra minimum of 6 minutes per exam that's 66 minutes, making mistakes and redoing ones you messed up, or repeating what she said. 
 
 The exams are the same so already the exams and trainings take 12 hours.
 Each assignment takes about 20 minutes. Really they take about 30 minutes if you are checking your graded work and resubmitting for points 
@@ -65,6 +65,6 @@ My back and hands ache so much from this class, what if i had an injury or some 
 
  My health should not be deteriorating over an information systems class. Maybe you think you are teaching a class to students who have literally nothing else to do over the summer, and that's great for them, but you are also teaching to realistic young professional adults with jobs, health needs, families etc. 
 
-I hope you will do the math or do some timing  tests or SOMETHING to get some hard accurate data and times for this class and reconsider your course for someone that is new to the material and fits this demographic. Because i really don't understand how this can possibly be the expectation. So much for just living a normal healthy life with exercising cooking and chores, all that's going to have to be sacrificed in order to just do well in this class so my company pays for it because this course is thousands of dollars i can't pay back on my own. I really hope you can take what i'm saying seriously as a struggling cbe more considerate with how you design your course. 
+I hope you will do the math or do some timing  tests or SOMETHING to get some hard accurate data and times for this class and reconsider your course for someone that is new to the material and fits this demographic. Because i really don't understand how this can possibly be the expectation. So much for just living a normal healthy life with exercising cooking and chores, all that's going to have to be sacrificed in order to just do well in this class so my company pays for it because this course is thousands of dollars i can't pay back on my own. I really hope you can take what I'm saying seriously as a struggling concerned student and be more conscious and considerate with how you design your course. Because this infosys course of all courses is going to deteriorate me, my job, my partner, my home and my health. 
 
 
