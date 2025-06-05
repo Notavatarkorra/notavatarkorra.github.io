@@ -24,10 +24,10 @@
 60
 60
 
-With all due respect, 10 hours is physically impossible.
-According to my math there are 12 exams and trainings. I grouped the first windows exams and trainings into just one hour because those are shorter and those assignments were shorter so i'm counting those assignments and trainings as just two hours all together because getting started and navigating the course is new and tricky. SO 1 Hours for the windows assignments and 1 hour listening to the sylabus and navigating the course
+With all due respect, your answer of 10 hours is physically impossible.
+According to my math there are 12 exams and trainings. I grouped the first windows exams and trainings into just one hour because those are shorter and those assignments were shorter so I'm counting those assignments and trainings as just two hours all together because getting started and navigating the course is new and tricky. SO 1 Hours for the windows assignments and 1 hour listening to the syllabus and navigating the course
 
-After that there are 12 exams and trainings. The trainings take a MIMIMUM of an hour because theres about 60 questions. Generously thats 30 seconds for her to explain it and 30 seconds for you to doit. They honestly take more like 1 hour and 30 minutes if you account for making mistakes and redoing some, or repeating what she said. 
+After that there are 12 exams and trainings. The trainings take a MIMIMUM of an hour because there's about 55-66 questions. Generously that's 30 seconds for her to explain it and 30 seconds for you to doit. They honestly take more like 1 hour and 30 minutes if you account for making mistakes and redoing ones you messed up, or repeating what she said. 
 
 The exams are the same so already the exams and trainings take 12 hours.
 Each assignment takes about 20 minutes. Really they take about 30 minutes if you are checking your graded work and resubmitting for points 
@@ -61,6 +61,8 @@ So between two classes, that are not hard hard classes like calculous or somethi
 
 5 hours of homework 7 days a week is so unrealistic. I work 40 hours a week at my job. God forbid i have sports, chores, exercise health or anything else i want to do, i physically cannot due to your class. 
 
-I'm going to talk to a counselor, or whoever i can to explain that this cannot physically be expected of someone. My health should not be deteriorating over an information systems class. Maybe you think you are teaching a class to students who have litterally nothing else to do over the summer, and thats great for them, but you are also teaching to realistic young professional adults with jobs, health needs, families etc. 
+I'm going to talk to a counselor, or whoever i can to explain that this cannot physically be expected of someone. My health should not be deteriorating over an information systems class. Maybe you think you are teaching a class to students who have literally nothing else to do over the summer, and that's great for them, but you are also teaching to realistic young professional adults with jobs, health needs, families etc. 
+
+I hope you will do the math and reconsider your course for someone that is new to the material and fits this demographic. Because i really don't understand how this can possibly be the expectation. 
 
 
