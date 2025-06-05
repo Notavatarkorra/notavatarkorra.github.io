@@ -34,9 +34,8 @@ Each assignment can take about 20 minutes. Really they take about 30 minutes if 
 so generously we can say 25 min per assignment. 
 
 12 assignments 
-capstone assignments take longer so we will say 30 minutes for those. 
-25x 12 is 300 
-Thats 5.5 hours
+25 minutes per 12 assignments is 300 
+That's 5.5 hours
 
 So already at the MINIMUM this is 17.5 hours that you cannot refute. 
 
@@ -46,14 +45,13 @@ So regrouping so we are on track first we have the:
 
 NOW for the  REALISTIC hours.
 
-So it takes a minimum of 17.5 hours that's also if you are ONLY spending a minute per question on the exams and trainings, that's not including the half hour it takes to repeat things, make mistakes, try again, actually work through the trainings, not to mention trouble focusing or normal human learning and comprehension, so for someone like me who is learning all of this for the first time and not whizzing through it cause i already know it, its taking me the extra half hour on every training and exam and more like 30 minutes per assignment because I'm reading and trying to intake and google how to do something if i don't remember it or its not clear. 
+So it takes a minimum of 17.5 hours that's also only true if:
+you are ONLY spending a minute per question on the exams and trainings, (hat's not including the half hour it takes to repeat questions, make mistakes, try again, actually work through the trainings like you are learning it for the first time. 
+
+So realistically its taking about 1.5 hours
 
 And that's not much longer. 90 Minutes divided by 66 questions is a minute and 30 seconds per question.
 
-2 hours would be 2 minutes per question if its 66 questions.
-
-
-So, if we add taking an extra 30 seconds per question into account, then add on 5 minutes to every regular assignment for checking and grading and resubmitting, thats all another 7 hours.
 I also struggle with ADHD and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. So i am already taking into account that i might be slower than the average person. Honestly, the exams and trainings personally take me closer to 2 hours sometimes because of this. 
 
 Unless someone already knows what they are doing completely and is speeding through it all or somehow modding the assignments and cheating. This isn't even taking into account any time for readings.
