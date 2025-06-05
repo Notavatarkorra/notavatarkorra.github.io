@@ -161,9 +161,23 @@
               "icon": "lucide-file",
               "title": "INFOSYS NOTES"
             }
+          },
+          {
+            "id": "6b80ba6b187d36fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time on class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time on class"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 11
       },
       {
         "id": "4699ef50ea5864f3",
@@ -174,10 +188,14 @@
             "id": "13fdbe5e6b817d56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           },
           {
@@ -336,8 +354,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ec285b02c92d316",
+  "active": "6b80ba6b187d36fb",
   "lastOpenFiles": [
+    "Time on class.md",
+    "Untitled.md",
+    "Mold company.md",
     "ADHD company.md",
     "INFOSYS NOTES.md",
     "launching in tech paper.md",
@@ -345,7 +366,6 @@
     "Launching in beauty reflection paper.md",
     "Launching in real estate reflection paper.md",
     "launching in creative business paper.md",
-    "Mold company.md",
     "skoo.md",
     "README.md",
     "conflict-files-obsidian-git.md",
