@@ -30,7 +30,7 @@ According to my math there are 12 exams and trainings. I grouped the first windo
 After that there are 12 exams and trainings. The trainings take a MIMIMUM of an hour because there's about 55-66 questions. GENEROUSLY that's 30 seconds for her to explain it and 30 seconds for you to doit. They honestly take more like 1 hour and 30 minutes if you account for the fact that that's an extra minimum of 6 minutes per exam that's 66 minutes, making mistakes and redoing ones you messed up, or repeating what she said. 
 
 The exams are the same so already the exams and trainings take 12 hours.
-Each assignment takes about 20 minutes. Really they take about 30 minutes if you are checking your graded work and resubmitting for points 
+Each assignment can take about 20 minutes. Really they take about 30 minutes if you are checking your graded work and resubmitting for points 
 so generously we can say 25 min per assignment. 
 
 12 assignments 
@@ -40,9 +40,13 @@ Thats 5.5 hours
 
 So already at the MINIMUM this is 17.5 hours that you cannot refute. 
 
-Unless someone already knows what they are doing completely and is speeding through it all or somehow moding the assignments and cheating
+Unless someone already knows what they are doing completely and is speeding through it all or somehow modding the assignments and cheating. This isn't even taking into account any time for readings.
 
-So it takes a minimum of 17.5 hours thats also if you are ONLY spending a miniute per question on the exams and trainings, thats not including the half hour it takes to repeat things, make mistakes, try again, actually work through the trainings, not to mention trouble focusing or normal human learning, so for someone like me who is learning all of this for the first time and not whizzing through it, its taking me the extra half hour on every training and exam and more like 30 minutes per assignment because i'm reading and trying intake and google how to do something if i don't remember it or its not clear. so add on 5 minutes to every assignment and 30 onto the trainings and exams and you are at another 7 hours. Thats 24.5 hours. Thats normal learning this for the first time human speed. 
+So it takes a minimum of 17.5 hours that's also if you are ONLY spending a miniute per question on the exams and trainings, that's not including the half hour it takes to repeat things, make mistakes, try again, actually work through the trainings, not to mention trouble focusing or normal human learning and comprehension, so for someone like me who is learning all of this for the first time and not whizzing through it, its taking me the extra half hour on every training and exam and more like 30 minutes per assignment because I'm reading and trying to intake and google how to do something if i don't remember it or its not clear. 
+
+So, more REALISTICALLY add on 5 minutes to every assignment and 30 minutes onto the trainings and exams and you are at another 7 hours. That's 24.5 hours. 
+
+Honestly some of the exams and trainings take me 2 hours. So im generously accounting for the fact that i might be a little slower than others and trying to be fair with my math.
 
 I also struggle with ADHD and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. I personally am at over 30 hours because i take longer but i have just shown you that The amount of homework you have that you are stating is NOT 10 hours. Its not even physically capable of being under 12. Adding in the assignments its a minimum of 17.5 and if you consider the normal learning time it takes to read and comprehend and make mistakes and redo items, it REASONABLY takes at least 24.5 hours. 
 
