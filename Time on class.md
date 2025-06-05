@@ -60,9 +60,10 @@ Lets just round up the last half hour for grade checking, the extra 6 questions 
 
 Now to humanize the problem, and show you impossible 24 hours of homework for a class is.
 
-I, also struggle with ADHD, its literally the bane of my existence, and makes me want to kill myself. It sucks having
+I, also struggle with ADHD, its literally the bane of my existence, and makes me want to kill myself. 
+So I struggle with ADHD and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. So i am already taking into account that i might be slower than the average person. Honestly, the exams and trainings personally take me closer to 2 hours sometimes because of this, and the assignments take me more like 30 minutes each. But i'm not going off that math because no body cares about disabilities, its all more unbelievable excuses. 
 
-So I struggle with ADHD and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. So i am already taking into account that i might be slower than the average person. Honestly, the exams and trainings personally take me closer to 2 hours sometimes because of this. 
+So we are going off a reasonable and normal estimate. I would love to know if you think 1 minutes and 30 seconds per training/exam question is unreasonable. My assumption is maybe you do since, you say only 10 hours. Also do you know how slowly that lecture in the training speaks? I found the speed up button a little late but even then, 30 seconds for her to explain, 30 seconds to perform, its not that much. 
 
 Unless someone already knows what they are doing completely and is speeding through it all or somehow modding the assignments and cheating. This isn't even taking into account any time for readings.
 
