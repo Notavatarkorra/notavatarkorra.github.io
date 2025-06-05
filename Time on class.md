@@ -51,4 +51,9 @@ How i'm at over 30 makes me think i'm still miscalculating things somewhere but 
 So going off these calculations, id have to work on your homework for 5 hours straight 5 nights.
 
 This isn't including any of the readings either. Or the file path assignment. 
+Honestly i did 7. I stayed up all night one night and got 4 trainings and assignments done. Because for me i didn't find the speed up button for her voice until after, so they were taking me like 2 hours each.
+
+But Professor. This means that if i come home from my 9-5, i'm spending 5 hours a night straight on your homework. 
+
+I have on
 
