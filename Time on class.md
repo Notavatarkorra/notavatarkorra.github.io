@@ -55,5 +55,7 @@ Honestly i did 7. I stayed up all night one night and got 4 trainings and assign
 
 But Professor. This means that if i come home from my 9-5, i'm spending 5 hours a night straight on your homework. 
 
-I have on
+I have one other accelerated class that actually does take 10 hours. 
+
+So between two classes, that are not hard hard classes like calculous or something, i'm spending 34 hours on homework. That means between these two classes im doing homework 5 hours a day 7 days a week. Thats not even 
 
