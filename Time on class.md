@@ -40,4 +40,6 @@ Thats 5.5 hours
 
 So already at the MINIMUM this is 17.5 hours that you cannot refute. 
 
-Unless someone already knows what they are doing completely and is speeding through it all or somehow modding the si
+Unless someone already knows what they are doing completely and is speeding through it all or somehow moding the assignments and cheating
+
+So it takes a minimum of 17.5 hours thats also if you are ONLY spending a miniute per question on the exams and trainings, thats not including the half hour it takes to repeat things, make mistakes, try again, actually work through the trainings, not to mention trouble focusing or normal human learning, so for someone like me who is learning all of this for the first time and not whizzing through it, its taking me the extra half hour on every training and exam and more like 30 minutes per assignment because i'm reading and trying intake and google how to do something if i don't remember it or its not clear. so add on 5 minutes to every assignment and 30 onto the trainings and exams and you are at 
