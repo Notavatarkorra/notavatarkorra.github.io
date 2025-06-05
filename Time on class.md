@@ -44,7 +44,11 @@ Unless someone already knows what they are doing completely and is speeding thro
 
 So it takes a minimum of 17.5 hours that's also if you are ONLY spending a minute per question on the exams and trainings, that's not including the half hour it takes to repeat things, make mistakes, try again, actually work through the trainings, not to mention trouble focusing or normal human learning and comprehension, so for someone like me who is learning all of this for the first time and not whizzing through it cause i already know it, its taking me the extra half hour on every training and exam and more like 30 minutes per assignment because I'm reading and trying to intake and google how to do something if i don't remember it or its not clear. 
 
-So, more REALISTICALLY add on 5 minutes to every regualar assignment and 30 minutes onto the trainings and exams and you are at another 7 hours. That's 24.5 hours. 
+And that's not much longer. 90 Minutes divided by 66 questions is a minute and 30 seconds per question.
+
+2 hours would be 2 minutes per question if its 66 questions.
+
+So, if we add taking an extra 30 seconds per question into account, then add on 5 minutes to every regular assignment for checking and grading and resubmitting, tha That's 24.5 hours. 
 
 I also struggle with ADHD and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. So i am already taking into account that i might be slower than the average person. Honestly, the exams and trainings personally take me closer to 2 hours sometimes because of this. 
 
