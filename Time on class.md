@@ -35,4 +35,9 @@ so generously we can say 25 min per assignment.
 
 12 assignments 
 capstone assignments take longer so we will say 30 minutes for those. 
-25x 12 is 300
+25x 12 is 300 
+Thats 5.5 hours
+
+So already at the MINIMUM this is 17.5 hours that you cannot refute. 
+
+Unless someone already knows what they are doing completely and is speeding through it all or somehow modding the si
