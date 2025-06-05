@@ -44,5 +44,11 @@ Unless someone already knows what they are doing completely and is speeding thro
 
 So it takes a minimum of 17.5 hours thats also if you are ONLY spending a miniute per question on the exams and trainings, thats not including the half hour it takes to repeat things, make mistakes, try again, actually work through the trainings, not to mention trouble focusing or normal human learning, so for someone like me who is learning all of this for the first time and not whizzing through it, its taking me the extra half hour on every training and exam and more like 30 minutes per assignment because i'm reading and trying intake and google how to do something if i don't remember it or its not clear. so add on 5 minutes to every assignment and 30 onto the trainings and exams and you are at another 7 hours. Thats 24.5 hours. Thats normal learning this for the first time human speed. 
 
-I also struggle with ADHD and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. I personally am at over 30 hours because i take longer but i have just shown you that The amount of homework you have that you are stating is NOT 10 hours. Its not even physically capable of being under 12. Adding in the assignments its a minimum of 17.5 and if you add REASONABLY takes at least 24.5 hours. 
+I also struggle with ADHD and memory retention so its taking me longer than the average minimum time to read and comprehend all the instructions and assignments and taking time to redo them to get a better grade, or work through distractions. I personally am at over 30 hours because i take longer but i have just shown you that The amount of homework you have that you are stating is NOT 10 hours. Its not even physically capable of being under 12. Adding in the assignments its a minimum of 17.5 and if you consider the normal learning time it takes to read and comprehend and make mistakes and redo items, it REASONABLY takes at least 24.5 hours. 
+
+How i'm at over 30 makes me think i'm still miscalculating things somewhere but i'm generously chalking the up to the fact i'm prolly slower than others and maybe its the adhd. 
+
+So going off these calculations, id have to work on your homework for 5 hours straight 5 nights.
+
+This isn't including any of the readings either. Or the file path assignment. 
 
