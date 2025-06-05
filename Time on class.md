@@ -72,20 +72,14 @@ Please let me know if my math doesn't make sense. But your course, Its not even 
 
 How i'm at over 30 hours makes me think i'm still miscalculating things somewhere but i'm generously chalking the up to the fact i'm prolly slower than others and maybe its the adhd. I'm over 30 hours and still not even caught up though. And i am competent, maybe slow but I'm competent and work an office professional job in IT. So i'm not just an idiot, but i am learning a lot of this for the first time. (Which is how a course really should be, directed to people who don't already know the material)
 
-So going off these calculations, id have to work on your homework for 5 hours straight 5 nights.
+Why this is physically impossible to maintain
+I have one other accelerated class that actually does take 10 hours. Its an Entrepreneur class.
 
-This isn't including any of the readings either. Or the file path assignment. 
-Honestly i did 7. I stayed up all night one night and got 4 trainings and assignments done. Because for me i didn't find the speed up button for her voice until after, so they were taking me like 2 hours each.
+So between two classes, that are not hard hard classes so far, i'm spending 34 hours on homework. That means between these two classes im doing homework 5 hours a day 7 days a week. That is insane, professor.  
 
-But Professor. This means that if i come home from my 9-5, i'm spending 5 hours a night straight on your homework. 
+5 hours of homework 7 days a week is so unrealistic. I work 40 hours a week at my job. God forbid i have sports, chores, cooking, exercise health or anything else i want or need to do, i physically cannot due to your class. 
 
-I have one other accelerated class that actually does take 10 hours. 
-
-So between two classes, that are not hard hard classes like calculous or something, i'm spending 34 hours on homework. That means between these two classes im doing homework 5 hours a day 7 days a week. That is insane, professor.  
-
-5 hours of homework 7 days a week is so unrealistic. I work 40 hours a week at my job. God forbid i have sports, chores, exercise health or anything else i want to do, i physically cannot due to your class. 
-
-My back and hands ache so much from this class, what if i had an injury or some kind of disease.
+My back and hands ache so much from this class, i'm not even kidding, 
 
  My health should not be deteriorating over an information systems class. Maybe you think you are teaching a class to students who have literally nothing else to do over the summer, and that's great for them, but you are also teaching to realistic young professional adults with jobs, health needs, families etc. 
 
