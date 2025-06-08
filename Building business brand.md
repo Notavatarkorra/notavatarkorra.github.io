@@ -23,7 +23,17 @@ Brand Board must include: 1) business’ name, 2) purpose, 3) top 3 values, 4) b
 - Conversion & Loyalty — identify 2-3 strategies for each
     
 
--
+-  **[Brand Archetypes](https://marchbranding.com/buzz/brand-archetypes/)
+
+      https://marchbranding.com/buzz/brand-archetypes/
+        
+ [Logo Maker]( https://www.canva.com/create/logos/ 
+        
+        https://www.canva.com/colors/color-palette-generator/
+
+https://www.canva.com/create/logos/
+        [Unsplash Photos](https://unsplash.com/)** 
+        
 
 impact is purpose you want to have on the world
 add values

@@ -15,11 +15,3 @@ Conversion & Loyalty — identify 2-3 strategies for each**Understand the import
 
 -Evaluate the effectiveness of different marketing strategies.
 
-  **[Brand Archetypes](https://marchbranding.com/buzz/brand-archetypes/)
-
-        [Color Generator](https://www.canva.com/colors/color-palette-generator/)
-
-        [Logo Maker](https://www.canva.com/create/logos/)
-
-        [Unsplash Photos](https://unsplash.com/)**
-        

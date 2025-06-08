@@ -182,12 +182,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENT Brand board.md",
+                "file": "Building business brand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ENT Brand board"
+              "title": "Building business brand"
             }
           },
           {
@@ -233,7 +233,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 12
       },
       {
         "id": "4699ef50ea5864f3",
@@ -410,12 +410,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f230499f7dd26dc",
+  "active": "28b77a4b55ca2beb",
   "lastOpenFiles": [
-    "launch business.md",
-    "ENT Brand board.md",
     "Porters 5 forces.md",
     "Intro to pitching.md",
+    "launch business.md",
+    "Building business brand.md",
     "Time on class.md",
     "Untitled.md",
     "Mold company.md",
