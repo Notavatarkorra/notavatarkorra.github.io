@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Work Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Work Log"
             }
           },
           {
@@ -232,8 +232,7 @@
               "title": "launch business"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       },
       {
         "id": "4699ef50ea5864f3",
@@ -296,7 +295,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#fe4d01",
+                "query": "work",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -410,25 +409,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28b77a4b55ca2beb",
+  "active": "f2aace7b6dfc14c5",
   "lastOpenFiles": [
-    "Pasted image 20250609191125.png",
-    "Intro to pitching.md",
-    "Porters 5 forces.md",
+    "Work Log.md",
+    "README.md",
     "Building business brand.md",
     "Time on class.md",
     "INFOSYS NOTES.md",
-    "launch business.md",
-    "Untitled.md",
-    "Mold company.md",
-    "ADHD company.md",
+    "launching in creative business paper.md",
     "launching in tech paper.md",
     "Launching in food reflection paper.md",
-    "Launching in beauty reflection paper.md",
     "Launching in real estate reflection paper.md",
-    "launching in creative business paper.md",
+    "Launching in beauty reflection paper.md",
+    "ADHD company.md",
+    "Mold company.md",
     "skoo.md",
-    "README.md",
+    "Pasted image 20250609191125.png",
+    "Intro to pitching.md",
+    "Porters 5 forces.md",
+    "launch business.md",
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Welcome.md",
     "meeting-notes.md",
