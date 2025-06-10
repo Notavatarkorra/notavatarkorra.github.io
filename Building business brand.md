@@ -40,3 +40,4 @@ add values
 
 cannot cater to everyone, specific audience
 
+![[Pasted image 20250609191125.png]] 
