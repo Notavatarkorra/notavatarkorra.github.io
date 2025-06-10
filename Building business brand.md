@@ -41,3 +41,7 @@ add values
 cannot cater to everyone, specific audience
 
 ![[Pasted image 20250609191125.png]] 
+
+Brand board
+Color : #f75808
+#fe4d01
