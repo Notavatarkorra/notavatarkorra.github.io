@@ -296,7 +296,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#fe4d01",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -317,12 +317,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f78936d32ff11185",

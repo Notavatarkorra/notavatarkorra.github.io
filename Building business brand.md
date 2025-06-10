@@ -45,3 +45,5 @@ cannot cater to everyone, specific audience
 Brand board
 Color : #f75808
 #fe4d01
+#ff4b00
+#ff3700
