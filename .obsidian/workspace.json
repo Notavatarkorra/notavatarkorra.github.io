@@ -232,7 +232,8 @@
               "title": "launch business"
             }
           }
-        ]
+        ],
+        "currentTab": 15
       },
       {
         "id": "4699ef50ea5864f3",
@@ -409,8 +410,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2aace7b6dfc14c5",
+  "active": "4f230499f7dd26dc",
   "lastOpenFiles": [
+    "Intro to pitching.md",
     "Work Log.md",
     "README.md",
     "Building business brand.md",
@@ -425,7 +427,6 @@
     "Mold company.md",
     "skoo.md",
     "Pasted image 20250609191125.png",
-    "Intro to pitching.md",
     "Porters 5 forces.md",
     "launch business.md",
     "Untitled.md",
