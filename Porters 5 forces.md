@@ -44,7 +44,7 @@ providers, and CLIA-certified labs — and pursuing HIPAA-compliant
 infrastructure — KnowYou makes it harder for copycat brands to enter  
 without similar groundwork.  
 
-substitute products sa
+
 
 2. Threat of Substitutes  
 Position KnowYou as the root-cause alternative to stimulants  
@@ -52,7 +52,11 @@ Instead of being “just another ADHD treatment,” KnowYou positions
 itself as a deeper solution — one that addresses hormonal imbalances  
 rather than just masking symptoms. Framing this as a category shift  
 reduces substitution risk.  
-3. Bargaining Power of Suppliers  
+
+substitute products satisfy the same needs
+how do i make myself insubstituable 
+
+2. Bargaining Power of Suppliers  
 Diversify partnerships with labs, pharmacies, and telehealth  
 providers
 
