@@ -43,4 +43,9 @@ samples
 webinars
 comparison specs ![[Pasted image 20250611000150.png]]
 google analytics visitor behavior on website
+sustaining customers
+
+loyalty programs
+vip, points, rewards
+personalized perks
 
