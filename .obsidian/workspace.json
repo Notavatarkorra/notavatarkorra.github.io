@@ -246,8 +246,7 @@
               "title": "KnowYOU"
             }
           }
-        ],
-        "currentTab": 16
+        ]
       },
       {
         "id": "4699ef50ea5864f3",
@@ -424,7 +423,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0080eb067bd3433",
+  "active": "f2aace7b6dfc14c5",
   "lastOpenFiles": [
     "KnowYOU.md",
     "launch business.md",

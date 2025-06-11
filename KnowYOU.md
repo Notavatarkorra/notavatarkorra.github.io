@@ -12,4 +12,3 @@ Progestin is a synthetic version of the hormone pregesterone
 
 This work suggests estrogen levels modulate cognitive control in females with ADHD.
 
-If anyone gets some tickets or calls about docusign clm giving an error, it should be fixed now, they did a user purge with bad data.
