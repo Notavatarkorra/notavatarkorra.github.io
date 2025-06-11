@@ -37,4 +37,9 @@ consideration can they find answers? evauluate brand, gather info
 
 what would they type into google to bring them to you
 google trends
+![[Pasted image 20250610235211.png]]
+sharing not selling
+samples
+webinars
+comparison specs
 
