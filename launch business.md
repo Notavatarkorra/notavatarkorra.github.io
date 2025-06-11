@@ -15,5 +15,14 @@ Conversion & Loyalty — identify 2-3 strategies for each**Understand the import
 
 -Evaluate the effectiveness of different marketing strategies.
 
+New Ents have: passioin and ideas
+a product people need
+minimal marketing knowledge
+
+build loyalty - create meaning for customers, whats in it for them, why should they listen to you, why should they take your advice
+story telling helps bring meaning to your product, you want them to feel good about their purchase. So they want to buy from you
+
+the experiences that the customers go through when interacting with a brand
+
 
 
