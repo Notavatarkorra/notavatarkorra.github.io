@@ -41,5 +41,5 @@ google trends
 sharing not selling
 samples
 webinars
-comparison specs
+comparison specs ![[Pasted image 20250611000150.png]]
 
