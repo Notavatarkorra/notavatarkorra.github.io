@@ -246,7 +246,8 @@
               "title": "KnowYOU"
             }
           }
-        ]
+        ],
+        "currentTab": 15
       },
       {
         "id": "4699ef50ea5864f3",
@@ -423,19 +424,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2aace7b6dfc14c5",
+  "active": "4f230499f7dd26dc",
   "lastOpenFiles": [
-    "KnowYOU.md",
+    "Intro to pitching.md",
+    "Porters 5 forces.md",
+    "Time on class.md",
+    "Building business brand.md",
     "launch business.md",
+    "Work Log.md",
+    "KnowYOU.md",
     "Pasted image 20250611000150.png",
     "Pasted image 20250610235211.png",
     "Pasted image 20250610230750.png",
     "Pasted image 20250610230335.png",
-    "Intro to pitching.md",
-    "Work Log.md",
     "README.md",
-    "Building business brand.md",
-    "Time on class.md",
     "INFOSYS NOTES.md",
     "launching in creative business paper.md",
     "launching in tech paper.md",
@@ -446,7 +448,6 @@
     "Mold company.md",
     "skoo.md",
     "Pasted image 20250609191125.png",
-    "Porters 5 forces.md",
     "Untitled.md",
     "conflict-files-obsidian-git.md",
     "Welcome.md",
