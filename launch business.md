@@ -32,4 +32,6 @@ branding is based on values and ideals
 who you serve what you offer and what makes you different and what do you promise
 
 build your own websit with google?
+create free business profile on google?
+consideration can they find answers? evauluate brand, gather info
 
