@@ -12,3 +12,14 @@ Progestin is a synthetic version of the hormone pregesterone
 
 This work suggests estrogen levels modulate cognitive control in females with ADHD.
 
+### ✅ Core Hormone Panel
+
+|Hormone|Why It Matters|
+|---|---|
+|**Estradiol (E2)**|Main form of estrogen; low levels can cause cognitive and mood symptoms|
+|**Progesterone**|Should be in balance with estrogen; helps with calm, focus, and sleep|
+|**Testosterone (free + total)**|Low levels = fatigue, low libido, brain fog|
+|**DHEA-S**|Supports adrenal function and hormone precursors|
+|**LH & FSH**|Help determine if your ovaries are functioning normally|
+|**Cortisol (AM)**|High or low = stress dysregulation, fatigue, anxiety|
+|**TSH, Free T3, Free T4, and reverse T3**|Rule out thyroid dysfunction (often missed)|
