@@ -23,7 +23,7 @@ build loyalty - create meaning for customers, whats in it for them, why should t
 story telling helps bring meaning to your product, you want them to feel good about their purchase. So they want to buy from you
 
 the experiences that the customers go through when interacting with a brand![[Pasted image 20250610230335.png]]
-
+![[Pasted image 20250610230750.png]]
 
 
 
