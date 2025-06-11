@@ -25,5 +25,9 @@ story telling helps bring meaning to your product, you want them to feel good ab
 the experiences that the customers go through when interacting with a brand![[Pasted image 20250610230335.png]]
 ![[Pasted image 20250610230750.png]]
 
+how would you reach your customers
+what is she doing daily that you can speak to
+branding is based on values and ideals
 
+who you serve what you offer and what makes you different and what do you promise
 
