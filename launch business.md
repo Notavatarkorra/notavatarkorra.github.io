@@ -35,3 +35,6 @@ build your own websit with google?
 create free business profile on google?
 consideration can they find answers? evauluate brand, gather info
 
+what would they type into google to bring them to you
+google trends
+
