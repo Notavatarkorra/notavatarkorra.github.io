@@ -40,12 +40,15 @@ And they saw other teams taking on contractors to train and then hire. This spot
 
 So now that helpdesk has no time, and other teams are just bringing on contractors, this limits the growth and development of HD, and crushes hopes of promotion.
 
-Ontop of all that, they will not give us more people to soften the load and reduce stress.
+Ontop of all that, they will not give us more people to soften the load and reduce stress. They did promote heather to team lead thankfully and that did help some, she did start to try and work on development with us before it got too busy.
 
 We have been at 40+ tickets since january. 
+CJ and heather were taking and working tickets we were do underwater
 Our call volume was also insane, seeing numbers like 50/60 calls regularly.
 
 call volume has gone down some but we still have crazy days like that. 
+
+I think the reason CJ didn't work on development with us because his plate w
 
 
 
