@@ -73,4 +73,19 @@ And last year, during the holiday season we were short staffed and it was crazy,
 and i'm being told that my peers on the service delivery team don't think i'm developing enough or at the right pace, and like i don't even see or interact with these people, and they don't have evidence its just their opnion. So i'm being reviewed by people that don't even work with me, and critqued for not developing enough, when they aren't really allowing us to even do that.
 
 
+### **Key Points Summary**
 
+1. **We're operating in survival mode.**  
+    Our team has been underwater for over a year — overloaded with tickets and calls, minimal support, and no time for development. This pace is unsustainable.
+    
+2. **Development expectations do not match reality.**  
+    We're being told to grow and improve, but also told development is on hold. We're set up to fail when expectations aren't aligned with the workload or support.
+    
+3. **Morale and retention are at risk.**  
+    Multiple team members have left due to burnout and lack of advancement. The ones who remain are demoralized, overworked, and fearful of speaking up.
+    
+4. **The help desk growth pipeline is broken.**  
+    We were promised a path to grow into other roles, but now that path is blocked — other teams are filling junior roles with contractors instead of promoting from within.
+    
+5. **We need staffing and structure now.**  
+    Without more people or protected time for training, the quality of work will continue to drop, and turnover will continue. We need a clear plan forward — not just to survive, but to rebuild.
