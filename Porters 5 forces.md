@@ -37,6 +37,10 @@ channels of distribution
 government polices, need to understand how and what policies will be a barrier for me
 
 1. Threat of New Entrants  
+**Your goal:**  
+
+Build **barriers to entry** by developing proprietary systems, securing partnerships, and meeting complex regulations.
+
 Build regulatory and clinical partnerships early to create barriers to  
 entry  
 By securing partnerships with 503A pharmacies, licensed telehealth  
