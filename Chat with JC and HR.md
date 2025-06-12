@@ -78,7 +78,15 @@ We are averaging around 30 hours of over time often
 one week i had 12 hours of overtime
 
 it is not a healthy environment right now
-I don't think Joe is a
+I don't think Joe is a mentor, leader, or good boss.
+
+It looked like what CJ went through was abuse honestly.
+i remember when we had Rob, everyone adored rob and he was such a hard worker and go getter. But they put the work of 5 people on him, it started getting to him, he asked for help, or more compensation for all the work, and they fired him. Joe had it out for him. He was fishing to see if Rob talked shit on anything after he left. He was like "did he say anything"
+They butted heads because they were both strong personalities
+
+and joe did not know how to utilize him
+instead felt threatened.
+That kid had so much potential and was so good at his job and was one the few people who always offered to help us and was a team player 
 
 
 ### **Key Points Summary**
