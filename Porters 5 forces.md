@@ -101,6 +101,8 @@ engaged and educated about their body.
 
 The power suppliers have to raise prices or reduce quality of services
 
+Supplier power is decreased by
+
 Diversify partnerships with labs, pharmacies, and telehealth  
 providers
 
