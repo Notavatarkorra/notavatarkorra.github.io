@@ -23,14 +23,14 @@ strategies (Porter’s 5 Forces strategies)
 1. Competitive Rivalry (Existing Competitors)  
 Differentiate through personalized, biology-based care  
 Most ADHD solutions focus on stimulants and generalized protocols.  
-KnowYou offers something new: hormone-informed treatment,  
+KnowYOU offers something new: hormone-informed treatment,  
 tailored to women — a niche that’s currently underserved. This creates  
 early differentiation and brand distinction.
 
 cost advantage, low cost of raw materials, local resources.
 
 savings in cost gained by increased level of production
-percieved as different to be more relaxed
+perceived as different to be more relaxed
 
 channels of distribution
 
@@ -46,7 +46,8 @@ entry
  Partner with them to use their licenses, infrastructure, or know-how to ensure compliance.
 #### . **Legal or Compliance Consultants**
 - These aren't formal partners like labs or pharmacies, but working with a **regulatory consultant**, FDA expert, or healthcare attorney ensures you're building a business that won't get shut down.
-- #### **Telehealth Providers (Licensed Physicians & Platforms)**- **Why it's regulatory:** 
+- 
+- #### **Telehealth Providers (Licensed Physicians & Platforms)**- 
 - 
 - #### **503A Compounding Pharmacies**
 **Why it's regulatory:** These pharmacies follow FDA and state board rules to compound personalized medications.
@@ -56,8 +57,9 @@ entry
     
 - **My partnership:** I send the at-home test kits to a CLIA-certified lab to stay compliant with testing regulations.
     
-- **Your partnership:** By sourcing custom hormone treatments from them, you avoid violating pharmacy compounding laws.
-- Prescribing medication across state lines or diagnosing patients requires valid medical licenses and HIPAA-compliant platforms.
+- **My partnership:** By sourcing custom hormone treatments from them, you avoid violating pharmacy compounding laws.
+-
+why this is necessary: Prescribing medication across state lines or diagnosing patients requires valid medical licenses and HIPAA-compliant platforms.
 
 By securing partnerships with 503A pharmacies, licensed telehealth  
 providers, and CLIA-certified labs — and pursuing HIPAA-compliant  
@@ -80,8 +82,9 @@ Position KnowYOU as the root-cause alternative to stimulants
 Instead of being “just another ADHD treatment,” KnowYOU positions  
 itself as a deeper solution — one that addresses hormonal imbalances  
 rather than just masking symptoms. So instead of trying to compete in the same category as stimulants, I'm trying to redefine it and create a new category, one that only i will occupy going in. This will also make it hard to substitute for my company because it will be seen as different, rather than interchangeable 
-substitute products satisfy the same needs
-how do i make myself insubstituable 
+
+substitute products satisfy the same needs but if i create a different need, i can redefine ADHD care and say  something like "This is not just treating ADHD; we're decoding the biological rhythm behind it. This is hormone-integrated cognitive functioning care.”
+
 
 2. Bargaining Power of Suppliers  
 Diversify partnerships with labs, pharmacies, and telehealth  
