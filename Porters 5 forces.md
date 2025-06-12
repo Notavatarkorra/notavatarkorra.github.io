@@ -86,14 +86,20 @@ substitute products satisfy the same needs but if i create a different need, i c
 
 *How much influence customers have over my pricing, terms and products offered.
 
-REDUCE customer buying power by creating a unique necessary experience. Offer loyalty incentives.
+When people feel understood  
+and supported, they’re less likely to leave for generic alternatives.
+
+REDUCE customer buying power by creating a unique and valuable personalized and intuitive experience. Make understanding their bodies an engaging process. Have them track symptoms and keep track of data. Offer loyalty incentives discounts and bundles where I can to inspire customers to log their experiences with their treatment. 
 
 By offering bundled services (test kits + consults + treatment), loyalty  
-rewards, and an education-focused brand, KnowYou keeps users  
-engaged and educated about their body. When people feel understood  
-and supported, they’re less likely to leave for generic alternatives.  
+rewards, and an education-focused brand, KnowYOU keeps users  
+engaged and educated about their body. 
+
+  
 
 6. Bargaining Power of Suppliers  
+
+The power suppliers have to raise prices or reduce quality of services
 
 Diversify partnerships with labs, pharmacies, and telehealth  
 providers
