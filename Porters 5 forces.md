@@ -20,21 +20,9 @@ competitors
 
 To successfully enter this market we have developed the following  
 strategies (Porter’s 5 Forces strategies)  
-1. Competitive Rivalry (Existing Competitors)  
-Differentiate through personalized, biology-based care  
-Most ADHD solutions focus on stimulants and generalized protocols.  
-KnowYOU offers something new: hormone-informed treatment,  
-tailored to women — a niche that’s currently underserved. This creates  
-early differentiation and brand distinction.
-
-cost advantage, low cost of raw materials, local resources.
-
-savings in cost gained by increased level of production
-perceived as different to be more relaxed
 
 channels of distribution
 
-government polices, need to understand how and what policies will be a barrier for me
 
 1. Threat of New Entrants  
 **My goal:**  
@@ -120,4 +108,21 @@ and supported, they’re less likely to leave for generic alternatives.
 
 make it accessible
 make it unique
-create 
+create trust and loyalty with customers
+work to continuously get feedback from customers and improve buying experience
+
+6. - Rivalry among existing competitors
+
+Differentiate through personalized, biology-based care  
+Most ADHD solutions focus on stimulants and generalized protocols.  
+KnowYOU offers something new: hormone-informed treatment,  
+tailored to women — a niche that’s currently underserved. This creates  
+early differentiation and brand distinction.
+
+cost advantage, low cost of raw materials, local resources.
+
+savings in cost gained by increased level of production
+perceived as different to be more relaxed
+Reduce rivalry among existing competitors by building brand loyalty to reduce direct comparisons
+Keeping the barrier to entry high 
+Pay attention to government polices and follow them, need to understand how and what policies will be a barrier for me
