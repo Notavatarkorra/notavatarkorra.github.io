@@ -66,7 +66,11 @@ Its really not good. And people are afraid to make a fuss about it because they 
 
 So i get this improvement plan that i'm working on, i barely have time to work on it because i have no time
 
-i'm told i need to work on my development, but i'm also being told 
+i'm told i need to work on my development, but i'm also being told that my development needs to be on hold for a year, but they need to see improvement, WHILE its crazy? It feels so so awful. 
+
+And last year, during the holiday season we were short staffed and it was crazy, i worked so hard to keep  up with everything, it felt like we were being suffocated, and then to not get my bonus after going through that, felt SO bad. After i felt like i worked so hard to keep us afloat.
+
+and i'm being told that my peers on the service delivery team don't think i'm developing enough or at the right pace, and like i don't even see or interact with these people, and they don't have evidence its just their opnion. So i'm being reviewed by people that don't even work with me, and critqued for not developing enough, when they aren't really allowing us to even do that.
 
 
 
