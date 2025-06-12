@@ -10,8 +10,15 @@ People around me talked so highly about the development and moving where you wan
 Well i saw that happen with Chris and martin and stanley and Scott
 
 But after that we had Heather, Vivian, Me Alex, Kylan, Mark B.
+We started getting really really busy summer of 24. 
+We didn't have the bandwidth to do extra training or learn new things with other teams because they just kept dumping busywork on us like forescout
+August we started getting flooded with calls and tickets.
+We also realized we weren't tracking our data correctly this year, we weren't capturing the actual number of calls. Callbacks weren't even being counted.
 
+So we were presenting data that's not been accurate for the last year or two and trying to improve our data. Our data was showing we were doing even less work than what we were doing. But we were getting really overloaded.
+
+But because we were so busy, our team had like 0 time for
 Mark, alex, and kylan all left because they were not seeing training or growth opportunities.
-We also got really really bu
-They watched as other teams brought on contractors to train and get hired instead. 
+
+
 
