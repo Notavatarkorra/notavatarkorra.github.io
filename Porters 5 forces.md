@@ -37,15 +37,17 @@ channels of distribution
 government polices, need to understand how and what policies will be a barrier for me
 
 1. Threat of New Entrants  
-**Your goal:**  
-
+**My goal:**  
 Build **barriers to entry** by developing proprietary systems, securing partnerships, and meeting complex regulations.
 
-Build regulatory and clinical partnerships early to create barriers to  
+How do i doit: Build regulatory and clinical partnerships early to create barriers to  
 entry  
- Partner with them to use their licenses, infrastructure, or know-how to ensure compliance.
+Partner with them to use their licenses, infrastructure, or know-how to ensure compliance.
+-Instead of hiring my own physician, use a **telehealth company** that already has doctors licensed across multiple states. 
+ -Instead of opening my own lab, **white-label through a CLIA-certified lab**.
+ -Instead of owning a pharmacy, **partner with a 503A** that already handles fulfillment and compliance.
 #### . **Legal or Compliance Consultants**
-- These aren't formal partners like labs or pharmacies, but working with a **regulatory consultant**, FDA expert, or healthcare attorney ensures you're building a business that won't get shut down.
+-These aren't formal partners like labs or pharmacies, but working with a **regulatory consultant**, FDA expert, or healthcare attorney ensures you're building a business that won't get shut down.
 - 
 - #### **Telehealth Providers (Licensed Physicians & Platforms)**- 
 - 
@@ -59,21 +61,15 @@ entry
     
 - **My partnership:** By sourcing custom hormone treatments from them, you avoid violating pharmacy compounding laws.
 -
-why this is necessary: Prescribing medication across state lines or diagnosing patients requires valid medical licenses and HIPAA-compliant platforms.
-
-By securing partnerships with 503A pharmacies, licensed telehealth  
-providers, and CLIA-certified labs — and pursuing HIPAA-compliant  
-infrastructure — KnowYou makes it harder for copycat brands to enter  
-without similar groundwork.  
+why this is regulatory: Prescribing medication across state lines or diagnosing patients requires valid medical licenses and HIPAA-compliant platforms.
 
 How to afford to doit:
 ### **1. Use Pay-Per-Use or Revenue-Sharing Models**
 
-- **no prepay or buy in bulk.** Instead, structure partnerships where I only pay when i make a sale.
+-**no prepay or buy in bulk.** Instead, structure partnerships where I only pay when i make a sale.
+-**Example:** Lab charges $90/test > I charge $200/test > $110 gross margin per kit.
     
-- **Example:** Lab charges $90/test > I charge $200/test > $110 gross margin per kit.
-    
-- **Compounding pharmacy:** Only fills prescriptions as needed, means no inventory overhead.
+-**Compounding pharmacy:** Only fills prescriptions as needed, means no inventory overhead.
 
 
 
@@ -83,10 +79,20 @@ Instead of being “just another ADHD treatment,” KnowYOU positions
 itself as a deeper solution — one that addresses hormonal imbalances  
 rather than just masking symptoms. So instead of trying to compete in the same category as stimulants, I'm trying to redefine it and create a new category, one that only i will occupy going in. This will also make it hard to substitute for my company because it will be seen as different, rather than interchangeable 
 
-substitute products satisfy the same needs but if i create a different need, i can redefine ADHD care and say  something like "This is not just treating ADHD; we're decoding the biological rhythm behind it. This is hormone-integrated cognitive functioning care.”
+substitute products satisfy the same needs but if i create a different need, i can redefine ADHD care and say something like "This is not just treating ADHD; we're decoding the biological rhythm behind it. This is hormone-integrated cognitive functioning care.”
 
+****
+5. Bargaining Power of Buyers (Customers)  
 
-2. Bargaining Power of Suppliers  
+*How much infCreate a sticky customer experience through subscription and  
+community  
+By offering bundled services (test kits + consults + treatment), loyalty  
+rewards, and an education-focused brand, KnowYou keeps users  
+engaged and educated about their body. When people feel understood  
+and supported, they’re less likely to leave for generic alternatives.  
+
+6. Bargaining Power of Suppliers  
+
 Diversify partnerships with labs, pharmacies, and telehealth  
 providers
 
