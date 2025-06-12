@@ -86,7 +86,7 @@ substitute products satisfy the same needs but if i create a different need, i c
 
 *How much influence customers have over my pricing, terms and products offered.
 
-REDUCE customer buying power by creating a unique necessary experience. Offer loyalty incentives. Maybe work on inspiring community and group education videos and 
+REDUCE customer buying power by creating a unique necessary experience. Offer loyalty incentives.
 
 By offering bundled services (test kits + consults + treatment), loyalty  
 rewards, and an education-focused brand, KnowYou keeps users  
