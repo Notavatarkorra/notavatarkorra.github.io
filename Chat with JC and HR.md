@@ -72,6 +72,7 @@ And last year, during the holiday season we were short staffed and it was crazy,
 
 and i'm being told that my peers on the service delivery team don't think i'm developing enough or at the right pace, and like i don't even see or interact with these people, and they don't have evidence its just their opnion. So i'm being reviewed by people that don't even work with me, and critqued for not developing enough, when they aren't really allowing us to even do that.
 
+And other teams are trying to offload MORE and MORE, like MORE to come and we just don't have the bandwidth for it.
 
 ### **Key Points Summary**
 
