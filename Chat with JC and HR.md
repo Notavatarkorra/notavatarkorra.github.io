@@ -35,7 +35,9 @@ So because we were so busy, our team had like 0 time for training and developmen
 
 Mark, alex, and kylan all left because they were not seeing training or growth opportunities or potential for advancement. 
 They just saw our team getting overloaded, fixing problems that other teams caused by other teams' carelessness, or poor process management.
-And they saw other teams taking on contractors to train and then hire. Th
+And they saw other teams taking on contractors to train and then hire. This spot or oppertunity was previously where helpdesk would come in.
+
+So now that 
 
 
 
