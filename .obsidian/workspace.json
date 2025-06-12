@@ -444,15 +444,15 @@
         "y": 12,
         "width": 600,
         "height": 600,
-        "maximize": false,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "909bc4363e6b8c7e",
+  "active": "4f230499f7dd26dc",
   "lastOpenFiles": [
-    "launch business.md",
     "Porters 5 forces.md",
+    "launch business.md",
     "KnowYOU.md",
     "Intro to pitching.md",
     "Time on class.md",
