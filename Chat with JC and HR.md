@@ -60,7 +60,9 @@ Joe keeps saying well if the numbers show we need it then we can doit, but its l
 
 and so CJ is pushing for change, and for help for us, and then he gets fired. That does not look good when they only one fighting for you gets fired.
 
-Joe doesn't really seem to care that we are drowning and stressed 
+Joe doesn't really seem to care that we are drowning and stressed. We don't feel like other teams care or notice either because they of their aversion to doing us ANY favors or ANY work that sounds like something we are capable of.
+
+Its really not good. And people are afraid to make a fuss about it because they keep us too busy to complain, and now we are scared of getting fired. We need more people we can't continue working like this. We will continue to have turnover if so. 
 
 
 
