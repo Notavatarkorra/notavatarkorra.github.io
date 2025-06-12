@@ -440,8 +440,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 484,
-        "y": 12,
+        "x": -1381,
+        "y": 72,
         "width": 600,
         "height": 600,
         "maximize": true,
@@ -449,10 +449,10 @@
       }
     ]
   },
-  "active": "4f230499f7dd26dc",
+  "active": "909bc4363e6b8c7e",
   "lastOpenFiles": [
-    "Porters 5 forces.md",
     "launch business.md",
+    "Porters 5 forces.md",
     "KnowYOU.md",
     "Intro to pitching.md",
     "Time on class.md",

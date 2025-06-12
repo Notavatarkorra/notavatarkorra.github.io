@@ -64,7 +64,8 @@ Partner with them to use their licenses, infrastructure, or know-how to ensure c
 why this is regulatory: Prescribing medication across state lines or diagnosing patients requires valid medical licenses and HIPAA-compliant platforms.
 
 How to afford to doit:
-### **1. Use Pay-Per-Use or Revenue-Sharing Models**
+
+. Use Pay-Per-Use or Revenue-Sharing Models
 
 -**no prepay or buy in bulk.** Instead, structure partnerships where I only pay when i make a sale.
 -**Example:** Lab charges $90/test > I charge $200/test > $110 gross margin per kit.
@@ -101,30 +102,22 @@ engaged and educated about their body.
 
 The power suppliers have to raise prices or reduce quality of services
 
-Supplier power is decreased by
+Supplier power is decreased by reducing dependency on any single supplier by diversifying partners and negotiating contracts that are favorable to me
 
 Diversify partnerships with labs, pharmacies, and telehealth  
 providers
 
 To reduce dependency on any single supplier, KnowYOU can onboard  
-multiple lab and pharmacy partners and use a modular telehealth  
-system. This keeps pricing and fulfillment power in balance.  
-5. Bargaining Power of Buyers (Customers)  
-Create a sticky customer experience through subscription and  
-community  
+multiple lab and pharmacy partners with contracts that deal on a pay per use model. This keeps pricing and fulfillment power in balance and gives me options with multiple suppliers.
+
+
+5. Bargaining Power of Buyers  
+
 By offering bundled services (test kits + consults + treatment), loyalty  
 rewards, and an education-focused brand, KnowYou keeps users  
 engaged and educated about their body. When people feel understood  
 and supported, they’re less likely to leave for generic alternatives.  
-Slide 8 — The Team & Founder  
-Design of Slide:  
-Founder photo of me and a group of people  
-Talking Points:  
-I’m the founder of KnowYou. I bring personal insight into the navigating  
-ADHD symptoms and a relentless drive to make personalized healthcare  
-more accessible and patient empowering.  
-I’ll lead product development, research coordination, and branding.  
-I will hire for roles in clinical operations, compliance, platform  
-development, and pharmacy/pharmacology oversight. Our team consists  
-of me as the founder. I have a background in Business and skills in IT.  
-Slide 9 — Call to Action — What Do You Need to Launch
+
+make it accessible
+make it unique
+create 
