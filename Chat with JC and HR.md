@@ -50,7 +50,17 @@ call volume has gone down some but we still have crazy days like that.
 
 I think the reason CJ didn't work on development with us because his plate was just too full all the time and Joe did little mentoring and guiding and just kept him so busy. He seemed stressed all the time. He would ask joe for help, joe wouldn't give it to him then get mad at his performance and say why didn't you ask for help.
 
-So moving Heather up helped this, but besides that change, theres been no addition of help. No peopl
+So moving Heather up helped this, but besides that change, theres been no addition of help. No extra people, and we are just constantly underwater, we barely have time to breath, our day is full to the brim, its causing the quality of work to go down, and our mental health has not been good.
+
+Its also caused alot of tension with other teams, because we ask for help, or we escalate something because we miss something, or because we just don't have time and they get onto us hard about it, and we are like just begging for patience and understanding and they are just always like
+oh we will make a guru so can take this on int he future, or like you missed this and we are like yes we know can you please just help us out we are dying and they  have this attitude like we are just dogs or something or trying to push work to them when we are just cleaning up their messes and taking on their busywork
+
+the dynamic does not feel good or healthy and hasn't for a while.
+Joe keeps saying well if the numbers show we need it then we can doit, but its like, the numbers aren't accurate, we are telling you what we need, we weren't meeting our metrics for a long time because it was so hard
+
+and so CJ is pushing for change, and for help for us, and then he gets fired. That does not look good when they only one fighting for you gets fired.
+
+Joe doesn't really seem to care that we are drowning and stressed 
 
 
 
