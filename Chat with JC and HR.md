@@ -64,6 +64,9 @@ Joe doesn't really seem to care that we are drowning and stressed. We don't feel
 
 Its really not good. And people are afraid to make a fuss about it because they keep us too busy to complain, and now we are scared of getting fired. We need more people we can't continue working like this. We will continue to have turnover if so. 
 
+So i get this improvement plan that i'm working on, i barely have time to work on it because i have no time
+
+i'm told i need to work on my development, but i'm also being told 
 
 
 
