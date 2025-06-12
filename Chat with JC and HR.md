@@ -34,7 +34,9 @@ A year now of being too busy and too overloaded and too stressed constantly with
 So because we were so busy, our team had like 0 time for training and development opportunities. 
 
 Mark, alex, and kylan all left because they were not seeing training or growth opportunities or potential for advancement. 
-They j
+They just saw our team getting overloaded, fixing problems that other teams caused by other teams' carelessness, or poor process management.
+And they saw other teams taking on contractors to train and then hire. Th
+
 
 
 
