@@ -34,7 +34,7 @@ percieved as different to be more relaxed
 
 channels of distribution
 
-government polies, need to understand how and what policies will be a barrier for me
+government polices, need to understand how and what policies will be a barrier for me
 
 1. Threat of New Entrants  
 Build regulatory and clinical partnerships early to create barriers to  
