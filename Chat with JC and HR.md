@@ -74,6 +74,13 @@ and i'm being told that my peers on the service delivery team don't think i'm de
 
 And other teams are trying to offload MORE and MORE, like MORE to come and we just don't have the bandwidth for it.
 
+We are averaging around 30 hours of over time often
+one week i had 12 hours of overtime
+
+it is not a healthy environment right now
+I don't think Joe is a
+
+
 ### **Key Points Summary**
 
 1. **We're operating in survival mode.**  
