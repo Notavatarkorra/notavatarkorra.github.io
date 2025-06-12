@@ -64,15 +64,22 @@ providers, and CLIA-certified labs — and pursuing HIPAA-compliant
 infrastructure — KnowYou makes it harder for copycat brands to enter  
 without similar groundwork.  
 
+How to afford to doit:
+### **1. Use Pay-Per-Use or Revenue-Sharing Models**
+
+- **no prepay or buy in bulk.** Instead, structure partnerships where I only pay when i make a sale.
+    
+- **Example:** Lab charges $90/test > I charge $200/test > $110 gross margin per kit.
+    
+- **Compounding pharmacy:** Only fills prescriptions as needed, means no inventory overhead.
+
 
 
 2. Threat of Substitutes  
-Position KnowYou as the root-cause alternative to stimulants  
-Instead of being “just another ADHD treatment,” KnowYou positions  
+Position KnowYOU as the root-cause alternative to stimulants  
+Instead of being “just another ADHD treatment,” KnowYOU positions  
 itself as a deeper solution — one that addresses hormonal imbalances  
-rather than just masking symptoms. Framing this as a category shift  
-reduces substitution risk.  
-
+rather than just masking symptoms. So instead of trying to compete in the same category as stimulants, I'm trying to redefine it and create a new category, one that only i will occupy going in. This will also make it hard to substitute for my company because it will be seen as different, rather than interchangeable 
 substitute products satisfy the same needs
 how do i make myself insubstituable 
 
@@ -80,7 +87,7 @@ how do i make myself insubstituable
 Diversify partnerships with labs, pharmacies, and telehealth  
 providers
 
-To reduce dependency on any single supplier, KnowYou can onboard  
+To reduce dependency on any single supplier, KnowYOU can onboard  
 multiple lab and pharmacy partners and use a modular telehealth  
 system. This keeps pricing and fulfillment power in balance.  
 5. Bargaining Power of Buyers (Customers)  
