@@ -11,7 +11,8 @@ Well i saw that happen with Chris and martin and stanley and Scott
 
 But after that we had Heather, Vivian, Me Alex, Kylan, Mark B.
 We started getting really really busy summer of 24. 
-We didn't have the bandwidth to do extra training or learn new things with other teams because they just kept dumping busywork on us like forescout
+We didn't have the bandwidth to do extra training or learn new things with other teams because they just kept dumping busywork on us like forescout. Or more than half the people that receive a new pc, they don't work off the bat and can't get in.
+
 August we started getting flooded with calls and tickets.
 We also realized we weren't tracking our data correctly this year, we weren't capturing the actual number of calls. Callbacks weren't even being counted.
 
@@ -37,7 +38,14 @@ Mark, alex, and kylan all left because they were not seeing training or growth o
 They just saw our team getting overloaded, fixing problems that other teams caused by other teams' carelessness, or poor process management.
 And they saw other teams taking on contractors to train and then hire. This spot or oppertunity was previously where helpdesk would come in.
 
-So now that 
+So now that helpdesk has no time, and other teams are just bringing on contractors, this limits the growth and development of HD, and crushes hopes of promotion.
+
+Ontop of all that, they will not give us more people to soften the load and reduce stress.
+
+We have been at 40+ tickets since january. 
+Our call volume was also insane, seeing numbers like 50/60 calls regularly.
+
+call volume has gone down some but we still have crazy days like that. 
 
 
 
