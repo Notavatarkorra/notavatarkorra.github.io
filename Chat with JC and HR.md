@@ -48,7 +48,9 @@ Our call volume was also insane, seeing numbers like 50/60 calls regularly.
 
 call volume has gone down some but we still have crazy days like that. 
 
-I think the reason CJ didn't work on development with us because his plate w
+I think the reason CJ didn't work on development with us because his plate was just too full all the time and Joe did little mentoring and guiding and just kept him so busy. He seemed stressed all the time. He would ask joe for help, joe wouldn't give it to him then get mad at his performance and say why didn't you ask for help.
+
+So moving Heather up helped this, but besides that change, theres been no addition of help. No peopl
 
 
 
