@@ -245,9 +245,23 @@
               "icon": "lucide-file",
               "title": "Chat with JC and HR"
             }
+          },
+          {
+            "id": "f4fa575544b5c207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 17
       },
       {
         "id": "4699ef50ea5864f3",
@@ -424,8 +438,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97f0fd9584dea0c9",
+  "active": "f4fa575544b5c207",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "launching in creative business paper.md",
     "launching in tech paper.md",
     "Launching in food reflection paper.md",
     "Launching in real estate reflection paper.md",
@@ -448,7 +464,6 @@
     "Pasted image 20250610230750.png",
     "Pasted image 20250610230335.png",
     "INFOSYS NOTES.md",
-    "launching in creative business paper.md",
     "Pasted image 20250609191125.png",
     "conflict-files-obsidian-git.md",
     "Welcome.md",
@@ -459,7 +474,6 @@
     "testing 1 2 3 Untitled.md",
     "indexnotworking.html",
     "index (2).html",
-    "empty (2).html",
-    "TEST.md"
+    "empty (2).html"
   ]
 }
