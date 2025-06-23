@@ -15,3 +15,50 @@ homwork 4c
 **Revised Version:**
 
 > I recently purchased the Music Collection you advertised on TV. Unfortunately, it took six weeks to become available, and the downloads were in the wrong format, so I haven’t been able to use them. I’d appreciate your help in resolving this issue. In the meantime, I’ve contacted my credit card company to contest the charge and have removed the files from my device.
+>
+
+**Meadowbrook Medical Center**  
+123 Wellness Drive  
+Brookhaven, NY 11719
+
+June 22, 2025
+
+Dr. Maria Ellison  
+Director  
+Meadowbrook Medical Center  
+123 Wellness Drive  
+Brookhaven, NY 11719
+
+**Subject: Committee Reappointment Progress Report – June 2025**
+
+The annual reappointment process for the hospital’s standing committees is progressing on schedule. We have taken key steps to ensure the timely reorganization of all medical staff committees and expect to complete the process by mid-July, pending final confirmations.
+
+---
+
+### Status Summary
+
+A total of ten committees are being staffed this year. The Chief of Staff has personally contacted all selected committee chairs by phone, and follow-up thank-you emails have been sent to each on the Chief’s behalf. Emails have also been sent to physicians not being reappointed to notify them of the change.
+
+---
+
+### Work Completed
+
+- All committee chairs have been contacted and confirmed.
+    
+- Thank-you emails from the Chief of Staff have been sent.
+    
+- Notification emails have been sent to current members not being reappointed.
+    
+- Invitation emails have been sent to all physicians being asked to serve.
+    
+
+---
+
+### Work Scheduled
+
+We expect to receive any appointment refusals by July 15. Once all roles are confirmed, I will compile the final committee membership lists and email them to the entire medical staff by July 22.
+
+Sincerely yours,  
+**[Your Full Name]**  
+Medical Staff Administrative Assistant  
+Meadowbrook Medical Center
