@@ -19,6 +19,14 @@ AbbVIE inc
 https://finance.yahoo.com/news/decoding-abbvie-inc-abbv-strategic-050614828.html
 
 2. Positions  i would want to do of these https://www.abbvie.com/join-us.html#:~:text=RESEARCH%20&%20DEVELOPMENT,people%2C%20technology%20and%20the%20business.
-externships two day thing
+externships two day thing https://www.abbvie.com/join-us/student-programs.html#:~:text=The%20Commercial%20Leadership%20Program%20is,Field%20Sales
 2.
 3. Culture - hybrid work model, located in north chicago illinois, international. Its a pharmaceutical company, good health insurance
+https://www.glassdoor.com/Overview/Working-at-AbbVie-EI_IE649837.11,17.htm
+https://www.themuse.com/profiles/abbvie
+
+
+Merck and co
+1.
+2.
+3. culturehttps://www.glassdoor.com/Reviews/Merck-Reviews-E438.htm
