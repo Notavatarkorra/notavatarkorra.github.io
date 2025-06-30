@@ -17,4 +17,4 @@ AbbVIE inc
 
 1.
 2.
-3. Culture - hybrid work model
+3. Culture - hybrid work model, located in north chicago illinois, international. Its a pharmaceutical company, good health insurance
