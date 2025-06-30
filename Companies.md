@@ -27,6 +27,11 @@ https://www.themuse.com/profiles/abbvie
 
 
 Merck and co
-1.
-2.
+
+1. What they do : We aspire to be the premier research-intensive biopharmaceutical company
+https://www.merck.com/?utm_source=google&utm_medium=cpc&utm_campaign&utm_content&utm_term&utm_kxconfid=ut5vrhsig&utm_brand=merckcorporate&gad_source=1&gad_campaignid=21427910633&gclid=EAIaIQobChMIxtnBzZ6YjgMVv1dHAR3-aCEXEAAYASAAEgJG7fD_BwE&gclsrc=aw.ds
+
+https://www.merck.com/what-we-do/
+
+2. positions, medical affairs, sales, marketing https://jobs.merck.com/us/en
 3. culturehttps://www.glassdoor.com/Reviews/Merck-Reviews-E438.htm
