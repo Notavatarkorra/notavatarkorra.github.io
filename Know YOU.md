@@ -1,0 +1,1 @@
+https://www.additudemag.com/hrt-hormone-replacement-therapy-birth-control-pill-adhd/?srsltid=AfmBOorGLmpWjZFJYI-EQE5QmYf-Ewg128X4kIb7MCCcHShMbusaI630
