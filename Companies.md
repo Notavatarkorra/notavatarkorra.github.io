@@ -15,6 +15,10 @@ Partnering with startups to scale solutions that drive simple, smart and secure
 
 AbbVIE inc
 
-1.
+1. All different types of work from research and development, to data and statistical sciences, discovery, global market affairs, pharmaceutical dev, pharmacovigilance, global labeling and advertising https://careers.abbvie.com/en/
+https://finance.yahoo.com/news/decoding-abbvie-inc-abbv-strategic-050614828.html
+
+2. Positions  i would want to do of these https://www.abbvie.com/join-us.html#:~:text=RESEARCH%20&%20DEVELOPMENT,people%2C%20technology%20and%20the%20business.
+externships two day thing
 2.
 3. Culture - hybrid work model, located in north chicago illinois, international. Its a pharmaceutical company, good health insurance
