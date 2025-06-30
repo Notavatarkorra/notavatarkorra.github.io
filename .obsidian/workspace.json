@@ -4,166 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dfa2ac8cc059dc4e",
+        "id": "ce29412e865cbcc1",
         "type": "tabs",
         "dimension": 74.35897435897436,
         "children": [
           {
-            "id": "f2aace7b6dfc14c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Work Log"
-            }
-          },
-          {
-            "id": "53f632497228727a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "6f3e13a1c94392fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "skoo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "skoo"
-            }
-          },
-          {
-            "id": "6ec285b02c92d316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mold company.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mold company"
-            }
-          },
-          {
-            "id": "f847b5a417f3d91c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADHD company.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ADHD company"
-            }
-          },
-          {
-            "id": "9e8b56c31caef626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Launching in beauty reflection paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Launching in beauty reflection paper"
-            }
-          },
-          {
-            "id": "1048ab9372df17fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Launching in real estate reflection paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Launching in real estate reflection paper"
-            }
-          },
-          {
-            "id": "7632953782f223de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Launching in food reflection paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Launching in food reflection paper"
-            }
-          },
-          {
-            "id": "a6cd3c3837e50d37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "launching in tech paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "launching in tech paper"
-            }
-          },
-          {
-            "id": "97f0fd9584dea0c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "launching in creative business paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "launching in creative business paper"
-            }
-          },
-          {
-            "id": "d66f05c5c1ea9fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENG HW P 4AC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ENG HW P 4AC"
-            }
-          },
-          {
-            "id": "aac9c086c60b300f",
+            "id": "f18ddc8ba78ecb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -189,9 +35,23 @@
               "icon": "lucide-file",
               "title": "Know YOU"
             }
+          },
+          {
+            "id": "2977dbfd2ec581d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Companies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Companies"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       },
       {
         "id": "4699ef50ea5864f3",
@@ -368,13 +228,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aac9c086c60b300f",
+  "active": "2977dbfd2ec581d1",
   "lastOpenFiles": [
-    "Companies.md",
     "Unit 1 formal assignment.md",
+    "Companies.md",
+    "ENG HW P 4AC.md",
     "Untitled.md",
     "Know YOU.md",
-    "ENG HW P 4AC.md",
     "Pasted image 20250622142234.png",
     "Pasted image 20250622142141.png",
     "Pasted image 20250622142034.png",
