@@ -63,9 +63,23 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "31fe9b54d7c7e3d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "formal assignment unit 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "formal assignment unit 1"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "4699ef50ea5864f3",
@@ -242,8 +256,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c80589652d6e15f0",
+  "active": "31fe9b54d7c7e3d5",
   "lastOpenFiles": [
+    "formal assignment unit 1.md",
     "Untitled 1.md",
     "Companies.md",
     "Unit 1 formal assignment.md",
@@ -277,7 +292,6 @@
     "Pasted image 20250610230750.png",
     "Pasted image 20250610230335.png",
     "Pasted image 20250609191125.png",
-    "conflict-files-obsidian-git.md",
     "index.html",
     "indexnotworking.html",
     "index (2).html",
