@@ -21,4 +21,10 @@ abstract iii
 preface vii
 execative summary 1
 introduction 2
-body by major headings or typeface indentations
+		body by major headings or typeface indentations
+
+Analysis of reported findings
+			body of major headings and indentations
+
+Conclusions and reccomendations p8
+Refferences p10
